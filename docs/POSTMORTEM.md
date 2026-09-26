@@ -72,3 +72,13 @@ For About Blank, the transferable result is methodological: test whether an indu
 ## Preservation
 
 The private local archive contains **188 parseable replay snapshots**: 161 finished Arena, four finished Clash, two partial Arena and 21 partial Clash. The 15.96 GB source capture yielded a preserved allowlist of incoming arena/game-chunk messages; outgoing authentication and browser session state were excluded. We also saved our frozen strategies, audits, traces and evaluation artifacts with checksums. The public repository contains the smaller reviewable code/results package, not that raw archive.
+
+## Resumed-play experiment: A16
+
+After the server returned, A14 authenticated at 20:47 PDT. We tested a separate A16 that removes the four-own-arms enclosure requirement from the two-chain gate repair while retaining movement, matching and clock guards. It passed four focused engine/guard tests.
+
+The recorded saelra P5 checkpoints reproduce all pre-intervention commands. A16 completes a repair at each checkpoint, but both A14 and A16 ultimately reach 28 total matches and 25 pure-own matches when foreign cells are held stationary. The isolated two-step fix therefore did not establish an advantage over autonomous A14 on the remainder of those conditional rounds.
+
+Full qualification, seeds 7501–7520 in both seats: **20–20, zero mean energy and survivor margin**. A16 completes 520 repairs in 40 games, with eight aborted attempts, but gains no final score. Against published Baconian on two additional paired seeds, both A14 and A16 are **1–3, −2.0 mean energy margin**. All 48 games have zero host faults; maximum decision time is 119.45 ms. A16 was **not promoted**. [Results](../results/flexible-gate.json).
+
+This is a useful correction to the proposed next step above: repair frequency is not a benefit metric. We should measure which losses remain at the deadline before adding more repairs.

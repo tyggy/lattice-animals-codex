@@ -51,13 +51,14 @@ A14 does **not** make LLM/Jev calls or use persistent named-opponent memory. Tho
 | A13 gate repair vs A11 | 21–19, +0.525 mean energy margin | Deployed |
 | A14 selective handoff vs A13 | 26–14, +3.025 mean energy margin | Final deployment |
 | A15b support insurance vs A14 | 18–18–4, zero mean energy margin | Rejected |
+| A16 broader gate repair vs A14 | 20–20, zero mean energy margin | Rejected after server resumed |
 
 Each comparison used 20 seeds, both seats. These are separate local batches, not a ranking against every live opponent. The small champion **stand-in** screens were not tests against Baconian's actual source.
 
 ## Layout
 
 - `player.js`: public entry for frozen A14.
-- `codex/releases/`: A11, A13, A14 and rejected A15b, with original manifests.
+- `codex/releases/`: A11, A13, A14 and rejected A15b/A16, with original manifests.
 - `codex/game/`: reference game engine from the contestant kit.
 - `evaluation/`: isolated-worker gym and paired-seat runner.
 - `tests/`: engine-checked handoff and support-insurance regressions.

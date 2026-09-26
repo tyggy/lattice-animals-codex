@@ -1,0 +1,50 @@
+{
+  "a16-qualification-7501": {
+    "games": 40,
+    "wins": 20,
+    "losses": 20,
+    "draws": 0,
+    "energyMargin": 0.0,
+    "survivorMargin": 0.0,
+    "faults": 0,
+    "maxMs": 119.4419170000001,
+    "repairs": {
+      "started": 528,
+      "completed": 520,
+      "aborted": 8,
+      "rejected": 6
+    }
+  },
+  "a16-baconian-7531": {
+    "games": 4,
+    "wins": 1,
+    "losses": 3,
+    "draws": 0,
+    "energyMargin": -2.0,
+    "survivorMargin": -2.25,
+    "faults": 0,
+    "maxMs": 99.11912500000001,
+    "repairs": {
+      "started": 64,
+      "completed": 63,
+      "aborted": 1,
+      "rejected": 0
+    }
+  },
+  "a14-baconian-7531": {
+    "games": 4,
+    "wins": 1,
+    "losses": 3,
+    "draws": 0,
+    "energyMargin": -2.0,
+    "survivorMargin": -2.25,
+    "faults": 0,
+    "maxMs": 93.76725000000002,
+    "repairs": {
+      "started": 0,
+      "completed": 0,
+      "aborted": 0,
+      "rejected": 0
+    }
+  }
+}
