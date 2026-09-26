@@ -1,0 +1,55 @@
+{
+  "a15b-qualification-6001": {
+    "games": 40,
+    "wins": 18,
+    "losses": 18,
+    "draws": 4,
+    "energyMargin": 0.0,
+    "survivorMargin": 0.0,
+    "timeouts": 0,
+    "invalid": 0,
+    "errors": 0,
+    "maxMs": 102.22937499999534,
+    "insurance": {
+      "staged": 60,
+      "approachMoves": 30,
+      "aborted": 60,
+      "insuredTurns": 0,
+      "evaluations": 0,
+      "cuts": 0
+    }
+  },
+  "a15b-vs-champion-6031": {
+    "games": 4,
+    "wins": 4,
+    "losses": 0,
+    "draws": 0,
+    "energyMargin": 9.5,
+    "survivorMargin": 5.5,
+    "timeouts": 0,
+    "invalid": 0,
+    "errors": 0,
+    "maxMs": 84.88058300000012,
+    "insurance": {
+      "staged": 0,
+      "approachMoves": 0,
+      "aborted": 0,
+      "insuredTurns": 0,
+      "evaluations": 0,
+      "cuts": 0
+    }
+  },
+  "a14-vs-champion-6031": {
+    "games": 4,
+    "wins": 4,
+    "losses": 0,
+    "draws": 0,
+    "energyMargin": 9.5,
+    "survivorMargin": 5.5,
+    "timeouts": 0,
+    "invalid": 0,
+    "errors": 0,
+    "maxMs": 86.44020799999998,
+    "insurance": {}
+  }
+}

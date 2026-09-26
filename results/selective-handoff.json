@@ -1,0 +1,55 @@
+{
+  "a14-qualification-5801": {
+    "games": 40,
+    "wins": 26,
+    "losses": 14,
+    "draws": 0,
+    "energyMargin": 3.025,
+    "survivorMargin": 1.275,
+    "timeouts": 0,
+    "invalid": 0,
+    "errors": 0,
+    "maxMs": 98.11445799999638,
+    "handoffs": {
+      "offered": 917,
+      "valueRejected": 876,
+      "started": 22,
+      "completed": 15,
+      "aborted": 7,
+      "approachMoves": 78
+    }
+  },
+  "a14-vs-champion-5831": {
+    "games": 4,
+    "wins": 4,
+    "losses": 0,
+    "draws": 0,
+    "energyMargin": 9.75,
+    "survivorMargin": 5.75,
+    "timeouts": 0,
+    "invalid": 0,
+    "errors": 0,
+    "maxMs": 92.923666,
+    "handoffs": {
+      "offered": 81,
+      "valueRejected": 81,
+      "started": 0,
+      "completed": 0,
+      "aborted": 0,
+      "approachMoves": 0
+    }
+  },
+  "a13-vs-champion-5831": {
+    "games": 4,
+    "wins": 4,
+    "losses": 0,
+    "draws": 0,
+    "energyMargin": 9.75,
+    "survivorMargin": 5.75,
+    "timeouts": 0,
+    "invalid": 0,
+    "errors": 0,
+    "maxMs": 93.773625,
+    "handoffs": {}
+  }
+}

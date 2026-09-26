@@ -1,0 +1,6901 @@
+{
+  "caveat": "This is the subset with local finish records, not all official games. Uninterrupted own logs do not establish opponent participation or causal superiority. Version at finish alone is not a full-game version.",
+  "finishRecords": 153,
+  "byMode": {
+    "arena": {
+      "games": 102,
+      "wins": 59
+    },
+    "clash": {
+      "games": 51,
+      "wins": 8
+    }
+  },
+  "allArenaByOpponent": {
+    "junior": {
+      "games": 25,
+      "wins": 17,
+      "losses": 8,
+      "draws": 0,
+      "meanEnergyMargin": 8.68
+    },
+    "tyggy": {
+      "games": 23,
+      "wins": 14,
+      "losses": 9,
+      "draws": 0,
+      "meanEnergyMargin": 10.739
+    },
+    "saelra": {
+      "games": 23,
+      "wins": 9,
+      "losses": 14,
+      "draws": 0,
+      "meanEnergyMargin": -1.261
+    },
+    "baconian_lattice_intimator": {
+      "games": 7,
+      "wins": 2,
+      "losses": 5,
+      "draws": 0,
+      "meanEnergyMargin": -9.714
+    },
+    "toni": {
+      "games": 3,
+      "wins": 3,
+      "losses": 0,
+      "draws": 0,
+      "meanEnergyMargin": 32.333
+    },
+    "aidan": {
+      "games": 11,
+      "wins": 11,
+      "losses": 0,
+      "draws": 0,
+      "meanEnergyMargin": 17.091
+    },
+    "xcellect": {
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "draws": 0,
+      "meanEnergyMargin": -4.667
+    },
+    "vano": {
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "meanEnergyMargin": 26.0
+    }
+  },
+  "uninterruptedArenaByOpponent": {
+    "saelra": {
+      "games": 20,
+      "wins": 9,
+      "losses": 11,
+      "draws": 0,
+      "meanEnergyMargin": -0.85
+    },
+    "baconian_lattice_intimator": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "draws": 0,
+      "meanEnergyMargin": -12.8
+    },
+    "tyggy": {
+      "games": 16,
+      "wins": 10,
+      "losses": 6,
+      "draws": 0,
+      "meanEnergyMargin": 11.375
+    },
+    "toni": {
+      "games": 3,
+      "wins": 3,
+      "losses": 0,
+      "draws": 0,
+      "meanEnergyMargin": 32.333
+    },
+    "aidan": {
+      "games": 9,
+      "wins": 9,
+      "losses": 0,
+      "draws": 0,
+      "meanEnergyMargin": 19.111
+    },
+    "junior": {
+      "games": 17,
+      "wins": 10,
+      "losses": 7,
+      "draws": 0,
+      "meanEnergyMargin": 6.588
+    },
+    "xcellect": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "draws": 0,
+      "meanEnergyMargin": -1.25
+    },
+    "vano": {
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "meanEnergyMargin": 26.0
+    }
+  },
+  "games": [
+    {
+      "gameId": "211b58d7-0caa-43e4-9561-c7a53a3559fd",
+      "finishedAt": "2026-09-25T18:18:47.809Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "junior",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "missing initial join"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 5
+    },
+    {
+      "gameId": "e7dd0486-e212-4492-b66c-a1a7ae02e168",
+      "finishedAt": "2026-09-25T18:19:50.191Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "tyggy",
+          "totalEnergy": 18,
+          "survivorCount": 14,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "missing initial join"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 7
+    },
+    {
+      "gameId": "bd71c38f-eb70-41fa-adaa-f24960268d28",
+      "finishedAt": "2026-09-25T18:20:25.033Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "xcellect",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "missing initial join"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 8
+    },
+    {
+      "gameId": "710955c9-dbb6-4650-8eee-673b0cb624d7",
+      "finishedAt": "2026-09-25T18:27:07.396Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 37,
+          "survivorCount": 26,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "850ae297-4aac-4d86-8051-5d49eb203ada",
+      "finishedAt": "2026-09-25T18:28:23.677Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 34,
+          "survivorCount": 25,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "c1420732-06bb-40d4-8ce9-ebfcd2567b46",
+      "finishedAt": "2026-09-25T18:29:15.311Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 11,
+          "survivorCount": 8,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "d2c60b18-17e9-49d9-9226-7bcea4565937",
+      "finishedAt": "2026-09-25T18:35:56.926Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 1,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 1,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 1,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 1,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 1,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 1,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 1,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 1,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 1,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 12
+    },
+    {
+      "gameId": "a1d0ebdd-fb24-4de0-9be0-22d17b3ca680",
+      "finishedAt": "2026-09-25T18:36:57.216Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 29,
+          "survivorCount": 18,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 4,
+          "survivorCount": 4,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "e5e3c33e-dc8e-4607-b9ae-070ddf792f96",
+      "finishedAt": "2026-09-25T18:39:34.537Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 27,
+          "survivorCount": 20,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 7,
+          "survivorCount": 7,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "6d88b129-c896-4170-b88f-9b9b867ea05a",
+      "finishedAt": "2026-09-25T18:44:15.108Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 32,
+          "survivorCount": 23,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 31,
+          "survivorCount": 20,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "29e72e07-7dcc-41bd-9240-62947d868755",
+      "finishedAt": "2026-09-25T18:44:47.030Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 4,
+          "survivorCount": 3,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "Goodwick",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "8ed807ac-2d28-4b02-8d23-eea3cec17b89",
+      "finishedAt": "2026-09-25T18:45:30.915Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 31,
+          "survivorCount": 19,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "e0f7e4f7-17b9-4470-9d3a-d64f783bd035",
+      "finishedAt": "2026-09-25T18:53:37.572Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 6,
+          "survivorCount": 4,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "Goodwick",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "b9020069-0fac-4592-a007-51ad60e33a68",
+      "finishedAt": "2026-09-25T18:54:04.738Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 33,
+          "survivorCount": 24,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "0f9d7f6d-731b-439b-b508-70b79e38f658",
+      "finishedAt": "2026-09-25T19:01:23.479Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 27,
+          "survivorCount": 21,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "bad164e3-fdfb-4196-b7f0-87faf2a281f7",
+      "finishedAt": "2026-09-25T19:02:27.982Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 11,
+          "survivorCount": 11,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "Goodwick",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "4eadfdb3-8544-491f-97bc-4d157d64a487",
+      "finishedAt": "2026-09-25T19:02:39.212Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 49,
+          "survivorCount": 29,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 6,
+          "survivorCount": 4,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "Codex A1"
+      ],
+      "finishVersion": "Codex A1",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "ac53997d-ee6d-4334-ba7f-72cf6daf71b9",
+      "finishedAt": "2026-09-25T19:11:13.337Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 9,
+          "survivorCount": 9,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "jev-planner-a2",
+        "Codex A1"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "f98d62f5-1d47-474d-8be8-6b129f50cf22",
+      "finishedAt": "2026-09-25T19:11:18.222Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 15,
+          "survivorCount": 11,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "test_user",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "Goodwick",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 5,
+      "versions": [
+        "jev-planner-a2",
+        "Codex A1"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "edf3e75a-a2c1-4fbe-95b1-4de2bc923d3b",
+      "finishedAt": "2026-09-25T19:19:47.489Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 11,
+          "survivorCount": 8,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "f66503c2-1656-4c71-bd2e-467a6bad53bf",
+      "finishedAt": "2026-09-25T19:20:08.486Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "vano",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "Goodwick",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "74056556-8570-4a17-b6e1-c16b8dcf8680",
+      "finishedAt": "2026-09-25T19:28:21.662Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 37,
+          "survivorCount": 25,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "6224ee8b-16f9-4ac7-b038-dd98303bab0b",
+      "finishedAt": "2026-09-25T19:28:58.784Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 8,
+          "survivorCount": 6,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "Goodwick",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "0f420002-201d-408f-bb44-ec4dbaed5da1",
+      "finishedAt": "2026-09-25T19:31:05.004Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 26,
+          "survivorCount": 20,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "e31d9160-8c90-4e8f-a4c6-993d0127b76e",
+      "finishedAt": "2026-09-25T19:36:55.836Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 38,
+          "survivorCount": 27,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 8,
+          "survivorCount": 7,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "a4f516c9-4e92-48b2-abad-cfb39fd34fcb",
+      "finishedAt": "2026-09-25T19:37:49.024Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "junior",
+          "totalEnergy": 5,
+          "survivorCount": 5,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "Goodwick",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "490bd764-e0ae-41a0-b563-f6998ebad18a",
+      "finishedAt": "2026-09-25T19:45:30.632Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "junior",
+          "totalEnergy": 51,
+          "survivorCount": 32,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 41,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "99c53ae7-d58f-4cb7-b5ff-fa68f705ab6c",
+      "finishedAt": "2026-09-25T19:46:39.919Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 5,
+          "survivorCount": 5,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "b75865c3-98d6-4c16-9d4c-b18be200561f",
+      "finishedAt": "2026-09-25T19:51:28.766Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 20,
+          "survivorCount": 15,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "cad7102a-fc89-4357-8b46-dd5c1827eb94",
+      "finishedAt": "2026-09-25T19:54:04.943Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 55,
+          "survivorCount": 32,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 26,
+          "survivorCount": 18,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "2210e8ee-081f-4cf0-a542-a74e78617f45",
+      "finishedAt": "2026-09-25T19:55:30.624Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 8,
+          "survivorCount": 8,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 5,
+          "survivorCount": 5,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "d8be52c3-688b-4a48-96b5-19ec35011adc",
+      "finishedAt": "2026-09-25T20:00:03.089Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 29,
+          "survivorCount": 24,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "b851fd83-4b3d-4228-83fe-6a14d01daa0f",
+      "finishedAt": "2026-09-25T20:02:39.644Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "xcellect",
+          "totalEnergy": 17,
+          "survivorCount": 13,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 7,
+          "survivorCount": 6,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "dcbf4de5-1bde-44e2-8886-2f25733953cd",
+      "finishedAt": "2026-09-25T20:04:21.754Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 23,
+          "survivorCount": 16,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "madrix",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "cf5eb47b-4c8c-4dfd-8ab1-3a9daf97c75f",
+      "finishedAt": "2026-09-25T20:08:39.352Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 14,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "2e8ab2ea-e709-4290-8bee-778f53d07716",
+      "finishedAt": "2026-09-25T20:11:15.719Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "xcellect",
+          "totalEnergy": 6,
+          "survivorCount": 5,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "986d1e49-1422-479c-8383-5355ec12e267",
+      "finishedAt": "2026-09-25T20:13:13.689Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 18,
+          "survivorCount": 16,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 14,
+          "survivorCount": 13,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "68f1262e-3a82-42ef-a0a3-9cfe09f08cc4",
+      "finishedAt": "2026-09-25T20:16:39.797Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "tyggy",
+          "totalEnergy": 33,
+          "survivorCount": 23,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 25,
+          "survivorCount": 18,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "9dbc5918-e29f-457d-9540-8cbe1d0b53a4",
+      "finishedAt": "2026-09-25T20:17:14.430Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 27,
+          "survivorCount": 23,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 9,
+          "survivorCount": 6,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "29575377-e492-4256-8a2f-df41e9709582",
+      "finishedAt": "2026-09-25T20:19:50.768Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "xcellect",
+          "totalEnergy": 47,
+          "survivorCount": 27,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 11,
+          "survivorCount": 9,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "502ffde4-4758-4395-86be-43c3d36a5ad6",
+      "finishedAt": "2026-09-25T20:22:04.973Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 8,
+          "survivorCount": 8,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "aed60544-cb3e-408c-8b5c-9f37a53ca6fd",
+      "finishedAt": "2026-09-25T20:25:49.142Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 27,
+          "survivorCount": 20,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 15,
+          "survivorCount": 10,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "3f7843e6-8ffa-4b9f-a8a6-e2c98850fa85",
+      "finishedAt": "2026-09-25T20:28:25.600Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "junior",
+          "totalEnergy": 42,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 33,
+          "survivorCount": 23,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "d35c5bb0-3c31-4a47-98ce-d3706f9c9e44",
+      "finishedAt": "2026-09-25T20:30:56.732Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 31,
+          "survivorCount": 16,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 13,
+          "survivorCount": 10,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 7,
+          "survivorCount": 6,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 6,
+          "survivorCount": 6,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 5,
+          "survivorCount": 5,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 7,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 7,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 6,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "ebac0df1-c1d9-4153-b9d1-026c70accc2f",
+      "finishedAt": "2026-09-25T20:37:00.473Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 34,
+          "survivorCount": 24,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 33,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "c15e8d0a-74ab-43ce-bae8-77a04d5f10c8",
+      "finishedAt": "2026-09-25T20:39:47.989Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 10,
+          "survivorCount": 10,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "4d43d264-3ee3-414a-a073-c48746f7f5c6",
+      "finishedAt": "2026-09-25T20:42:59.819Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 11,
+          "survivorCount": 10,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "27a84654-cc81-4720-9f64-9de762c76427",
+      "finishedAt": "2026-09-25T20:45:36.004Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 34,
+          "survivorCount": 25,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 10,
+          "survivorCount": 9,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "jev-planner-a2"
+      ],
+      "finishVersion": "jev-planner-a2",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "cf574edc-534a-4dfb-a05b-f980592b78f6",
+      "finishedAt": "2026-09-25T20:48:39.258Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 11,
+          "survivorCount": 11,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a3",
+        "jev-planner-a2"
+      ],
+      "finishVersion": "scan-counter-a3",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "893404ec-e49e-4965-812a-cfcabfb23420",
+      "finishedAt": "2026-09-25T20:51:34.907Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 7,
+          "survivorCount": 7,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a3",
+        "jev-planner-a2"
+      ],
+      "finishVersion": "scan-counter-a3",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "83c1af43-828b-4d8c-9378-a43fd845beac",
+      "finishedAt": "2026-09-25T20:54:11.115Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 49,
+          "survivorCount": 28,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 30,
+          "survivorCount": 18,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a3",
+        "jev-planner-a2"
+      ],
+      "finishVersion": "scan-counter-a3",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "9699227c-6ead-44a7-b54b-66378a86469d",
+      "finishedAt": "2026-09-25T20:57:31.058Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 12,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 8,
+          "survivorCount": 7,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a3"
+      ],
+      "finishVersion": "scan-counter-a3",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "5cbe7f34-9c8e-4042-a517-58706aeaf896",
+      "finishedAt": "2026-09-25T20:59:36.202Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "tyggy",
+          "totalEnergy": 29,
+          "survivorCount": 19,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 11,
+          "survivorCount": 9,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a3"
+      ],
+      "finishVersion": "scan-counter-a3",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "2c4003c8-3ffa-4a7b-9bce-a195dd882c95",
+      "finishedAt": "2026-09-25T21:02:46.880Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 31,
+          "survivorCount": 24,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 27,
+          "survivorCount": 21,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a3"
+      ],
+      "finishVersion": "scan-counter-a3",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "d493f427-6396-4822-ab66-7ea93d65cc87",
+      "finishedAt": "2026-09-25T21:06:23.881Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "junior",
+          "totalEnergy": 7,
+          "survivorCount": 5,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 2,
+          "survivorCount": 2,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "pjwalmsley",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "leiaanapaula",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a5",
+        "scan-counter-a3"
+      ],
+      "finishVersion": "scan-counter-a5",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "3d374d9e-dd0f-40b8-9357-bb994b04eced",
+      "finishedAt": "2026-09-25T21:10:22.386Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 54,
+          "survivorCount": 31,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 19,
+          "survivorCount": 15,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a5",
+        "scan-counter-a3"
+      ],
+      "finishVersion": "scan-counter-a5",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "5cf7ac72-2cbb-4304-afc2-f16e837b2199",
+      "finishedAt": "2026-09-25T21:11:23.056Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "xcellect",
+          "totalEnergy": 37,
+          "survivorCount": 26,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a5",
+        "scan-counter-a3"
+      ],
+      "finishVersion": "scan-counter-a5",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "c7014ad1-aab5-42e5-b2df-a630c989a768",
+      "finishedAt": "2026-09-25T21:15:15.361Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 15,
+          "survivorCount": 15,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 5,
+          "survivorCount": 5,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "scan-counter-a5",
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "228caae0-3bf3-415f-812a-3413535f7d3f",
+      "finishedAt": "2026-09-25T21:18:56.776Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 51,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 46,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a5",
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "e3fc8f84-dcfa-408e-856e-5b00a4717746",
+      "finishedAt": "2026-09-25T21:19:57.666Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "tyggy",
+          "totalEnergy": 40,
+          "survivorCount": 25,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 20,
+          "survivorCount": 14,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a5",
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "937d1e59-17dc-4744-bbcb-f06261f8ecd6",
+      "finishedAt": "2026-09-25T21:24:07.232Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 14,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 12,
+          "survivorCount": 12,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 8,
+          "survivorCount": 6,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 7,
+          "survivorCount": 6,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "leiaanapaula",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "pjwalmsley",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "b84259de-6198-4cc8-a2d0-57078c97fd9a",
+      "finishedAt": "2026-09-25T21:28:33.884Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "tyggy",
+          "totalEnergy": 37,
+          "survivorCount": 23,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 34,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "80e81377-d6e3-4f8f-a1fc-030e8e25af6f",
+      "finishedAt": "2026-09-25T21:32:59.595Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 6,
+          "survivorCount": 6,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "4aee6d5a-2c3b-4e0d-b1a9-4ba004461cea",
+      "finishedAt": "2026-09-25T21:36:09.278Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 54,
+          "survivorCount": 31,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 24,
+          "survivorCount": 18,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "c084b02c-3509-4518-ad79-0fcb913250b1",
+      "finishedAt": "2026-09-25T21:37:10.359Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "tyggy",
+          "totalEnergy": 35,
+          "survivorCount": 24,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 10,
+          "survivorCount": 9,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "1d412d0d-81e5-484a-b9ba-047dc1862a56",
+      "finishedAt": "2026-09-25T21:41:52.071Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 10,
+          "survivorCount": 6,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 6,
+          "survivorCount": 4,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 5,
+          "survivorCount": 5,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "pjwalmsley",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "leiaanapaula",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "5ce5865e-8f0e-45f8-924d-5b4c2b593cbf",
+      "finishedAt": "2026-09-25T21:43:09.676Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 24,
+          "survivorCount": 18,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "2c45013b-07be-4a23-b47d-cc7aac2b088f",
+      "finishedAt": "2026-09-25T21:44:46.071Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 43,
+          "survivorCount": 29,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 37,
+          "survivorCount": 20,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "1f54ac91-30c0-4659-8ff9-226429220c4c",
+      "finishedAt": "2026-09-25T21:45:46.918Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "tyggy",
+          "totalEnergy": 27,
+          "survivorCount": 20,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 20,
+          "survivorCount": 17,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a4",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "8aef27a8-9273-48e0-be8e-0d3f300d7789",
+      "finishedAt": "2026-09-25T21:53:21.994Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 44,
+          "survivorCount": 27,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 30,
+          "survivorCount": 20,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a6",
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a6",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "322ac5d3-c32d-418a-84de-0aa1bcb44710",
+      "finishedAt": "2026-09-25T21:54:22.972Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 35,
+          "survivorCount": 24,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a6",
+        "scan-counter-a4"
+      ],
+      "finishVersion": "scan-counter-a6",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "f5bfc890-ba05-4314-8b77-a47d06d765ef",
+      "finishedAt": "2026-09-25T21:59:36.319Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 12,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 6,
+          "survivorCount": 4,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "leiaanapaula",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "pjwalmsley",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "scan-counter-a6"
+      ],
+      "finishVersion": "scan-counter-a6",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "1095c4c6-640e-434d-81f4-8ddafc2027a5",
+      "finishedAt": "2026-09-25T22:01:57.806Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 52,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 18,
+          "survivorCount": 18,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a6"
+      ],
+      "finishVersion": "scan-counter-a6",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "94a403ea-304f-46fb-966c-9ea3bcf84c2e",
+      "finishedAt": "2026-09-25T22:02:58.925Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 40,
+          "survivorCount": 25,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 36,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a6"
+      ],
+      "finishVersion": "scan-counter-a6",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "4262352d-10a4-426e-bf0e-a9597edf597d",
+      "finishedAt": "2026-09-25T22:08:24.104Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 40,
+          "survivorCount": 25,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a6"
+      ],
+      "finishVersion": "scan-counter-a6",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "91f8948a-c959-41b1-9ff9-ab1c7f0eb593",
+      "finishedAt": "2026-09-25T22:11:35.078Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 45,
+          "survivorCount": 29,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a6"
+      ],
+      "finishVersion": "scan-counter-a6",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "7460307e-e438-4576-9fb3-8b1785da1663",
+      "finishedAt": "2026-09-25T22:17:00.169Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 37,
+          "survivorCount": 26,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a6"
+      ],
+      "finishVersion": "scan-counter-a6",
+      "flags": [
+        "known opponent impairment"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "353336fb-881a-456e-9295-a2dff5304c20",
+      "finishedAt": "2026-09-25T22:17:20.172Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 12,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 4,
+          "survivorCount": 4,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "leiaanapaula",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "scan-counter-a6"
+      ],
+      "finishVersion": "scan-counter-a6",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "2683cf5d-51ac-4129-829a-98aa818578de",
+      "finishedAt": "2026-09-25T22:19:11.043Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 53,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 29,
+          "survivorCount": 20,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a6"
+      ],
+      "finishVersion": "scan-counter-a6",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "9634c988-4123-4fac-91e4-f351a4f82a73",
+      "finishedAt": "2026-09-25T22:20:10.831Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 54,
+          "survivorCount": 32,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 31,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a6"
+      ],
+      "finishVersion": "scan-counter-a6",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "2d33666e-3231-4528-82e2-e344550cb492",
+      "finishedAt": "2026-09-25T22:26:12.771Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 7,
+          "survivorCount": 5,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 6,
+          "survivorCount": 6,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 2,
+          "survivorCount": 2,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 4,
+      "versions": [
+        "scan-counter-a6",
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "39b2cd3a-ea42-4e26-b4cc-a8025bec9093",
+      "finishedAt": "2026-09-25T22:28:46.566Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 50,
+          "survivorCount": 32,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 26,
+          "survivorCount": 19,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a6",
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "214bcd34-8767-43ff-8b4d-73075229abb1",
+      "finishedAt": "2026-09-25T22:37:23.966Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 38,
+          "survivorCount": 25,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 34,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "0444a050-af60-47a2-9046-a6a284691638",
+      "finishedAt": "2026-09-25T22:43:59.034Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 16,
+          "survivorCount": 11,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 16,
+          "survivorCount": 10,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 9,
+          "survivorCount": 7,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 6,
+          "survivorCount": 6,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 4,
+          "survivorCount": 3,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "5e7cb1aa-fa79-4a4d-ab17-ca01cb04c423",
+      "finishedAt": "2026-09-25T22:46:01.168Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 36,
+          "survivorCount": 24,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "ea70d397-64d8-4f57-85f7-4f892afed5d8",
+      "finishedAt": "2026-09-25T22:51:27.291Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "tyggy",
+          "totalEnergy": 30,
+          "survivorCount": 21,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 26,
+          "survivorCount": 20,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "c65329a0-4e6b-4990-a717-34d0224c55a5",
+      "finishedAt": "2026-09-25T22:52:51.395Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 16,
+          "survivorCount": 14,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 11,
+          "survivorCount": 8,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "leiaanapaula",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "pjwalmsley",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "a772259d-b465-4462-900b-b14816781fef",
+      "finishedAt": "2026-09-25T22:54:37.599Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 53,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 43,
+          "survivorCount": 30,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "74041b20-4ed0-4c05-90fc-2b73b5451d89",
+      "finishedAt": "2026-09-25T23:00:04.643Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "xcellect",
+          "totalEnergy": 52,
+          "survivorCount": 29,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 36,
+          "survivorCount": 28,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "d571c339-46ba-468e-baa0-09f97de628c5",
+      "finishedAt": "2026-09-25T23:01:44.643Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 24,
+          "survivorCount": 16,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 23,
+          "survivorCount": 16,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 20,
+          "survivorCount": 15,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 19,
+          "survivorCount": 12,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 11,
+          "survivorCount": 8,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 4,
+          "survivorCount": 3,
+          "rank": 7,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 8,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 6,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "8bb141ac-c068-4388-bf3e-ea2235772ce2",
+      "finishedAt": "2026-09-25T23:03:14.302Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 37,
+          "survivorCount": 23,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 36,
+          "survivorCount": 25,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "19fe9802-264f-4524-ae9c-28d3f30a8da5",
+      "finishedAt": "2026-09-25T23:22:39.714Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "xcellect",
+          "totalEnergy": 51,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 41,
+          "survivorCount": 26,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "47f9469d-a219-42c6-aeaa-9ac919d06123",
+      "finishedAt": "2026-09-25T23:28:05.479Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "junior",
+          "totalEnergy": 44,
+          "survivorCount": 24,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 36,
+          "survivorCount": 26,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "017519c0-bc09-4e42-9257-e7754db7021a",
+      "finishedAt": "2026-09-25T23:28:23.618Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 18,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 6,
+          "survivorCount": 6,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "pjwalmsley",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "1603ac5c-3380-45e6-9f9a-9bfc421f3cec",
+      "finishedAt": "2026-09-25T23:31:15.460Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 60,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 33,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "b010fa5c-b1d2-49bb-b64d-c4cbbe4b07bd",
+      "finishedAt": "2026-09-25T23:36:42.953Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 38,
+          "survivorCount": 25,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 35,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "36e274f1-d6d2-449d-a807-09dd7c7975bf",
+      "finishedAt": "2026-09-25T23:39:52.920Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 55,
+          "survivorCount": 32,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 53,
+          "survivorCount": 32,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "50a5e0e5-5a14-4e87-a7c5-1e3bbf2eb46c",
+      "finishedAt": "2026-09-25T23:43:41.218Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 36,
+          "survivorCount": 25,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 18,
+          "survivorCount": 14,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "fd144e47-dfeb-4d30-b59d-3a6d6d59e858",
+      "finishedAt": "2026-09-25T23:45:19.495Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 48,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 41,
+          "survivorCount": 30,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "e60415f9-ed2e-483a-a6d7-e819114e74bd",
+      "finishedAt": "2026-09-25T23:46:10.084Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "junior",
+          "totalEnergy": 9,
+          "survivorCount": 9,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 7,
+          "survivorCount": 6,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "karanaggarwal",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "pjwalmsley",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "23901bc8-9261-4f6f-9b0d-4eed3dd37dc9",
+      "finishedAt": "2026-09-25T23:48:30.020Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 38,
+          "survivorCount": 25,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 37,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "990bb732-ecf9-4d86-a2ae-cef4ccfdc7e7",
+      "finishedAt": "2026-09-25T23:55:02.136Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 18,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 16,
+          "survivorCount": 12,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "leiaanapaula",
+          "totalEnergy": 14,
+          "survivorCount": 12,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 7,
+          "survivorCount": 4,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 4,
+          "survivorCount": 4,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 7,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 7,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "e811f5ef-fe7d-49b2-be4f-9d3af77abeab",
+      "finishedAt": "2026-09-25T23:57:05.859Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 40,
+          "survivorCount": 28,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 39,
+          "survivorCount": 25,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "05b1016a-8dc3-49ad-90c8-03887b79f3b7",
+      "finishedAt": "2026-09-26T00:02:30.090Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 44,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 33,
+          "survivorCount": 21,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "bc2d8eb2-ab0c-4362-b21c-176d04cfeb88",
+      "finishedAt": "2026-09-26T00:03:53.362Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 21,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 4,
+          "survivorCount": 4,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "pjwalmsley",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 3,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "72b989a3-3aed-4d36-b01d-2c489afb9bca",
+      "finishedAt": "2026-09-26T00:05:41.295Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 51,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 46,
+          "survivorCount": 30,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "dfcd937d-83a7-4ee9-b518-7148c8c711d3",
+      "finishedAt": "2026-09-26T00:11:05.525Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "junior",
+          "totalEnergy": 46,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 43,
+          "survivorCount": 29,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "0067d30d-b79a-4cfa-bcd6-1b2f55021c7c",
+      "finishedAt": "2026-09-26T00:12:44.818Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 16,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 16,
+          "survivorCount": 11,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 6,
+          "survivorCount": 5,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "leiaanapaula",
+          "totalEnergy": 4,
+          "survivorCount": 4,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "aidan",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "43595822-b626-48ca-81de-c04b3a69bd60",
+      "finishedAt": "2026-09-26T00:14:16.371Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 56,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 37,
+          "survivorCount": 25,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "3ab83b56-11f3-4272-a56d-9046551838bf",
+      "finishedAt": "2026-09-26T00:18:54.932Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 39,
+          "survivorCount": 25,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 32,
+          "survivorCount": 25,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "a13dc4e8-91f5-422e-8329-d1e546129fb0",
+      "finishedAt": "2026-09-26T00:19:40.077Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "junior",
+          "totalEnergy": 46,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 38,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "bd9718e3-b00c-40c1-9819-b09d3612c8ed",
+      "finishedAt": "2026-09-26T00:21:35.867Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 17,
+          "survivorCount": 10,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 16,
+          "survivorCount": 9,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 14,
+          "survivorCount": 12,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 14,
+          "survivorCount": 10,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "leiaanapaula",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "d207f310-6c4a-47ee-bf50-fa15b81028bb",
+      "finishedAt": "2026-09-26T00:22:51.533Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "xcellect",
+          "totalEnergy": 51,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 38,
+          "survivorCount": 25,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "2a51dcfb-adda-4efb-8c8f-6400bccabed3",
+      "finishedAt": "2026-09-26T00:30:26.399Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 20,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 16,
+          "survivorCount": 11,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 15,
+          "survivorCount": 10,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 6,
+          "survivorCount": 5,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "leiaanapaula",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 5,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "d42b6bfc-b1fc-43ee-a575-ecc45d2f7414",
+      "finishedAt": "2026-09-26T00:31:26.214Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "junior",
+          "totalEnergy": 48,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 36,
+          "survivorCount": 25,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8"
+      ],
+      "finishVersion": "scan-counter-a8",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "da1f7684-8013-4dd0-8483-72936c1c6af6",
+      "finishedAt": "2026-09-26T00:36:04.627Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 40,
+          "survivorCount": 28,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 35,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8",
+        "scan-counter-a9"
+      ],
+      "finishVersion": "scan-counter-a9",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "413b634b-eed1-4be6-85bc-197eef97ce11",
+      "finishedAt": "2026-09-26T00:39:17.281Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 20,
+          "survivorCount": 16,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 17,
+          "survivorCount": 12,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "toni",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "aaaaaaaaa",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a8",
+        "scan-counter-a9"
+      ],
+      "finishVersion": "scan-counter-a9",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "137a4e60-93f3-45e7-8f4e-d50e436e7cd5",
+      "finishedAt": "2026-09-26T00:40:00.490Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 45,
+          "survivorCount": 29,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 41,
+          "survivorCount": 28,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a8",
+        "scan-counter-a9"
+      ],
+      "finishVersion": "scan-counter-a9",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "ffa5239d-d2e9-4db5-b590-08d87f82e36b",
+      "finishedAt": "2026-09-26T00:48:08.049Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 26,
+          "survivorCount": 16,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 17,
+          "survivorCount": 12,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 16,
+          "survivorCount": 12,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 16,
+          "survivorCount": 12,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 13,
+          "survivorCount": 10,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 12,
+          "survivorCount": 9,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 7,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "scan-counter-a9"
+      ],
+      "finishVersion": "scan-counter-a9",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "e039575d-6e90-4bbf-afcc-093abcb52bc7",
+      "finishedAt": "2026-09-26T00:48:34.613Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 45,
+          "survivorCount": 28,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 17,
+          "survivorCount": 11,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a9"
+      ],
+      "finishVersion": "scan-counter-a9",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "305aa352-2d80-488a-b1de-207eb4777baa",
+      "finishedAt": "2026-09-26T00:52:21.318Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 50,
+          "survivorCount": 29,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 20,
+          "survivorCount": 16,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a9"
+      ],
+      "finishVersion": "scan-counter-a9",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "06f0de12-55b8-4ef0-8a79-63bc5635d94b",
+      "finishedAt": "2026-09-26T00:56:58.552Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 20,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 12,
+          "survivorCount": 8,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 4,
+          "survivorCount": 4,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a9"
+      ],
+      "finishVersion": "scan-counter-a9",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "6ebcff67-ec24-483d-a728-fe2cfb52f70c",
+      "finishedAt": "2026-09-26T00:57:08.875Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 43,
+          "survivorCount": 26,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 39,
+          "survivorCount": 26,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a9"
+      ],
+      "finishVersion": "scan-counter-a9",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "9432affd-fb6e-4d18-bcbe-6c888e2541c4",
+      "finishedAt": "2026-09-26T01:00:55.600Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 53,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 22,
+          "survivorCount": 15,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a9"
+      ],
+      "finishVersion": "scan-counter-a9",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "a3089542-4cfd-4bff-9651-b22c5b8a318f",
+      "finishedAt": "2026-09-26T01:05:43.477Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 49,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 47,
+          "survivorCount": 29,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a11",
+        "scan-counter-a9"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "a29d3b72-dfc7-449b-bae0-75ec62c94f8d",
+      "finishedAt": "2026-09-26T01:05:49.159Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 13,
+          "survivorCount": 10,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 11,
+          "survivorCount": 9,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 9,
+          "survivorCount": 5,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 4,
+      "versions": [
+        "scan-counter-a11",
+        "scan-counter-a9"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "5ed69dd3-e198-46fd-abc4-3550f697a385",
+      "finishedAt": "2026-09-26T01:14:17.771Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 46,
+          "survivorCount": 32,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 38,
+          "survivorCount": 26,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "2e08abb5-9ec6-4cf5-9b37-c246d3475524",
+      "finishedAt": "2026-09-26T01:14:40.191Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 14,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 11,
+          "survivorCount": 8,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "09aa20fd-ff6b-4fae-a9a3-fbfe677b413b",
+      "finishedAt": "2026-09-26T01:18:04.003Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 56,
+          "survivorCount": 32,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 25,
+          "survivorCount": 19,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "fe7806f0-7585-4266-9f02-2eafbd76d439",
+      "finishedAt": "2026-09-26T01:22:52.060Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 47,
+          "survivorCount": 28,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 34,
+          "survivorCount": 22,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "d5a93f95-f1f7-42e8-b250-91562837c9b6",
+      "finishedAt": "2026-09-26T01:23:30.778Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 21,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 9,
+          "survivorCount": 6,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 9,
+          "survivorCount": 6,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 6,
+          "survivorCount": 5,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 3,
+          "survivorCount": 3,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 1,
+          "survivorCount": 1,
+          "rank": 7,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 5,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "1fc5a6ba-9acc-45fa-8b91-9edd86b8e613",
+      "finishedAt": "2026-09-26T01:31:26.149Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 45,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 37,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "023d4be5-5a96-4ca3-acf0-80beb0a1eeb0",
+      "finishedAt": "2026-09-26T01:32:21.392Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 21,
+          "survivorCount": 15,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 19,
+          "survivorCount": 12,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 17,
+          "survivorCount": 11,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 11,
+          "survivorCount": 8,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 9,
+          "survivorCount": 8,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "43aa6d1b-820f-490a-ab44-faa6c0d9f20e",
+      "finishedAt": "2026-09-26T01:35:12.044Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 35,
+          "survivorCount": 24,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 27,
+          "survivorCount": 17,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "077d00ca-1231-4436-8474-d4332b21c6e3",
+      "finishedAt": "2026-09-26T01:40:00.119Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 46,
+          "survivorCount": 28,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 39,
+          "survivorCount": 26,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "d5a248b5-93aa-4270-a15f-65f0b1153540",
+      "finishedAt": "2026-09-26T01:41:11.913Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 18,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 17,
+          "survivorCount": 12,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 15,
+          "survivorCount": 12,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 5,
+          "survivorCount": 5,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 6,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "a8b7259a-7fb5-4a7a-9e52-ebd5381285b9",
+      "finishedAt": "2026-09-26T01:48:34.623Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "junior",
+          "totalEnergy": 38,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 37,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "7d7f4e21-e6c1-47d3-aac8-bce6dcce8313",
+      "finishedAt": "2026-09-26T01:48:34.716Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 35,
+          "survivorCount": 24,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 31,
+          "survivorCount": 25,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "7c2d880b-630c-483a-8afb-53b419c9f3ec",
+      "finishedAt": "2026-09-26T01:50:02.496Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 17,
+          "survivorCount": 11,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 14,
+          "survivorCount": 10,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 7,
+          "survivorCount": 5,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 6,
+          "survivorCount": 6,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 6,
+          "survivorCount": 5,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 4,
+          "survivorCount": 4,
+          "rank": 6,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 7,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "scan-counter-a11"
+      ],
+      "finishVersion": "scan-counter-a11",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "0af38361-1334-4045-b306-6471c0385123",
+      "finishedAt": "2026-09-26T01:57:09.080Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 54,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 25,
+          "survivorCount": 15,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "gate-a13",
+        "scan-counter-a11"
+      ],
+      "finishVersion": "gate-a13",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "5e2ac9ca-7672-4e1f-9a4c-a84fc8e7b33d",
+      "finishedAt": "2026-09-26T01:57:09.112Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 44,
+          "survivorCount": 29,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 40,
+          "survivorCount": 25,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "gate-a13",
+        "scan-counter-a11"
+      ],
+      "finishVersion": "gate-a13",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "e8c225e8-406f-4d0f-8b30-24b83fda92fc",
+      "finishedAt": "2026-09-26T01:58:53.619Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 21,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 14,
+          "survivorCount": 12,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 5,
+          "survivorCount": 4,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 4,
+          "survivorCount": 4,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 5,
+      "versions": [
+        "gate-a13",
+        "scan-counter-a11"
+      ],
+      "finishVersion": "gate-a13",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "be96d9f4-4ac4-4119-b601-06f663a138ec",
+      "finishedAt": "2026-09-26T02:00:54.913Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 38,
+          "survivorCount": 26,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 30,
+          "survivorCount": 19,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "gate-a13"
+      ],
+      "finishVersion": "gate-a13",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "2ab0cc57-d16a-4a0c-b99b-91222d9b8ea2",
+      "finishedAt": "2026-09-26T02:05:43.756Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 45,
+          "survivorCount": 27,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 36,
+          "survivorCount": 24,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "gate-a13"
+      ],
+      "finishVersion": "gate-a13",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "8babd9bd-cce1-442e-96c6-95908cbf7b1f",
+      "finishedAt": "2026-09-26T02:07:44.217Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 20,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 18,
+          "survivorCount": 12,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 9,
+          "survivorCount": 6,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "junior",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 4,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 4,
+      "versions": [
+        "gate-a13",
+        "handoff-a14"
+      ],
+      "finishVersion": "handoff-a14",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "132f2d75-dcfc-46af-a53a-355699e31f14",
+      "finishedAt": "2026-09-26T02:09:29.435Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 51,
+          "survivorCount": 29,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 23,
+          "survivorCount": 17,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "gate-a13",
+        "handoff-a14"
+      ],
+      "finishVersion": "handoff-a14",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "mixed versions",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "a425a068-45af-4c3a-b041-d4ce6abe0eba",
+      "finishedAt": "2026-09-26T02:16:34.508Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "tyggy",
+          "totalEnergy": 14,
+          "survivorCount": 8,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 13,
+          "survivorCount": 10,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 12,
+          "survivorCount": 8,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 4,
+          "survivorCount": 3,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 5,
+      "versions": [
+        "handoff-a14"
+      ],
+      "finishVersion": "handoff-a14",
+      "flags": [
+        "resume: interrupted or state recreated"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 12
+    },
+    {
+      "gameId": "03c338ec-47aa-4495-bc39-4404a096ff68",
+      "finishedAt": "2026-09-26T02:18:03.256Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "tyggy",
+          "totalEnergy": 22,
+          "survivorCount": 16,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "handoff-a14"
+      ],
+      "finishVersion": "handoff-a14",
+      "flags": [
+        "resume: interrupted or state recreated"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 13
+    },
+    {
+      "gameId": "eaee08fb-7217-4b10-b331-185f9437024a",
+      "finishedAt": "2026-09-26T02:24:12.045Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "saelra",
+          "totalEnergy": 44,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 41,
+          "survivorCount": 30,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "handoff-a14"
+      ],
+      "finishVersion": "handoff-a14",
+      "flags": [
+        "resume: interrupted or state recreated",
+        "partial round telemetry"
+      ],
+      "uninterruptedOwnLog": false,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "483eb1bc-d8cb-47e2-9005-a1bedc232443",
+      "finishedAt": "2026-09-26T02:25:24.869Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 20,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 8,
+          "survivorCount": 6,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 6,
+          "survivorCount": 6,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 6,
+          "survivorCount": 5,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 0,
+          "survivorCount": 0,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 2,
+      "versions": [
+        "handoff-a14"
+      ],
+      "finishVersion": "handoff-a14",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "b2d2a6d4-db2a-43a2-a3ee-1cbec362f4c9",
+      "finishedAt": "2026-09-26T02:32:01.320Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 54,
+          "survivorCount": 32,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 28,
+          "survivorCount": 20,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "handoff-a14"
+      ],
+      "finishVersion": "handoff-a14",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "b012e760-0cdc-44c3-adf5-930d8dabcf86",
+      "finishedAt": "2026-09-26T02:32:46.037Z",
+      "mode": "arena",
+      "results": [
+        {
+          "name": "gettyggy",
+          "totalEnergy": 49,
+          "survivorCount": 30,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 25,
+          "survivorCount": 18,
+          "rank": 2,
+          "winner": false
+        }
+      ],
+      "win": true,
+      "rank": 1,
+      "versions": [
+        "handoff-a14"
+      ],
+      "finishVersion": "handoff-a14",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    },
+    {
+      "gameId": "edac2642-b9eb-4178-b0fa-6c8a79a532db",
+      "finishedAt": "2026-09-26T02:34:15.284Z",
+      "mode": "clash",
+      "results": [
+        {
+          "name": "baconian_lattice_intimator",
+          "totalEnergy": 21,
+          "survivorCount": 12,
+          "rank": 1,
+          "winner": true
+        },
+        {
+          "name": "xcellect",
+          "totalEnergy": 20,
+          "survivorCount": 12,
+          "rank": 2,
+          "winner": false
+        },
+        {
+          "name": "gettyggy",
+          "totalEnergy": 19,
+          "survivorCount": 12,
+          "rank": 3,
+          "winner": false
+        },
+        {
+          "name": "saelra",
+          "totalEnergy": 18,
+          "survivorCount": 12,
+          "rank": 4,
+          "winner": false
+        },
+        {
+          "name": "tyggy",
+          "totalEnergy": 6,
+          "survivorCount": 4,
+          "rank": 5,
+          "winner": false
+        },
+        {
+          "name": "vano",
+          "totalEnergy": 6,
+          "survivorCount": 4,
+          "rank": 5,
+          "winner": false
+        }
+      ],
+      "win": false,
+      "rank": 3,
+      "versions": [
+        "handoff-a14"
+      ],
+      "finishVersion": "handoff-a14",
+      "flags": [],
+      "uninterruptedOwnLog": true,
+      "roundEnds": 16
+    }
+  ]
+}

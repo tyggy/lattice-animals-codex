@@ -1,0 +1,188 @@
+{
+  "capturedAtMs": 1790390245225,
+  "caveat": "Last available capture, not an independently verified official final award result.",
+  "leaderboard": [
+    {
+      "userName": "xcellect",
+      "won": 65,
+      "rank": 1
+    },
+    {
+      "userName": "baconian_lattice_intimator",
+      "won": 63,
+      "rank": 2
+    },
+    {
+      "userName": "saelra",
+      "won": 62,
+      "rank": 3
+    },
+    {
+      "userName": "gettyggy",
+      "won": 59,
+      "rank": 4
+    },
+    {
+      "userName": "tyggy",
+      "won": 59,
+      "rank": 4
+    },
+    {
+      "userName": "junior",
+      "won": 53,
+      "rank": 6
+    },
+    {
+      "userName": "vano",
+      "won": 39,
+      "rank": 7
+    },
+    {
+      "userName": "aidan",
+      "won": 38,
+      "rank": 8
+    },
+    {
+      "userName": "toni",
+      "won": 34,
+      "rank": 9
+    },
+    {
+      "userName": "aaaaaaaaa",
+      "won": 24,
+      "rank": 10
+    },
+    {
+      "userName": "leiaanapaula",
+      "won": 22,
+      "rank": 11
+    },
+    {
+      "userName": "karanaggarwal",
+      "won": 18,
+      "rank": 12
+    },
+    {
+      "userName": "pjwalmsley",
+      "won": 8,
+      "rank": 13
+    },
+    {
+      "userName": "Goodwick",
+      "won": 5,
+      "rank": 14
+    },
+    {
+      "userName": "kaiser_factorial",
+      "won": 0,
+      "rank": null
+    },
+    {
+      "userName": "lumpenspace",
+      "won": 0,
+      "rank": null
+    },
+    {
+      "userName": "madrix",
+      "won": 0,
+      "rank": null
+    },
+    {
+      "userName": "test_user",
+      "won": 0,
+      "rank": null
+    }
+  ],
+  "clashLeaderboard": [
+    {
+      "userName": "baconian_lattice_intimator",
+      "won": 29,
+      "rank": 1
+    },
+    {
+      "userName": "saelra",
+      "won": 10,
+      "rank": 2
+    },
+    {
+      "userName": "gettyggy",
+      "won": 8,
+      "rank": 3
+    },
+    {
+      "userName": "toni",
+      "won": 4,
+      "rank": 4
+    },
+    {
+      "userName": "junior",
+      "won": 3,
+      "rank": 5
+    },
+    {
+      "userName": "xcellect",
+      "won": 3,
+      "rank": 5
+    },
+    {
+      "userName": "aidan",
+      "won": 1,
+      "rank": 7
+    },
+    {
+      "userName": "tyggy",
+      "won": 1,
+      "rank": 7
+    },
+    {
+      "userName": "vano",
+      "won": 1,
+      "rank": 7
+    },
+    {
+      "userName": "aaaaaaaaa",
+      "won": 0,
+      "rank": null
+    },
+    {
+      "userName": "Goodwick",
+      "won": 0,
+      "rank": null
+    },
+    {
+      "userName": "kaiser_factorial",
+      "won": 0,
+      "rank": null
+    },
+    {
+      "userName": "karanaggarwal",
+      "won": 0,
+      "rank": null
+    },
+    {
+      "userName": "leiaanapaula",
+      "won": 0,
+      "rank": null
+    },
+    {
+      "userName": "lumpenspace",
+      "won": 0,
+      "rank": null
+    },
+    {
+      "userName": "madrix",
+      "won": 0,
+      "rank": null
+    },
+    {
+      "userName": "pjwalmsley",
+      "won": 0,
+      "rank": null
+    },
+    {
+      "userName": "test_user",
+      "won": 0,
+      "rank": null
+    }
+  ]
+}
