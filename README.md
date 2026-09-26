@@ -2,7 +2,7 @@
 
 Our entry for the September 25, 2026 CIMC Lattice Animals hackathon. One JavaScript controller coordinates its cells to form the requested shapes, survive greedy matching, and preserve energy.
 
-**Final hackathon strategy and current baseline: A14.** Last captured standings: **59 Arena wins (tied fourth)** and **8 Clash wins (third)** at 19:37 PDT. These are the last saved leaderboard values, not a verified statement of the hackathon's overall awards. [Results and post-mortem](docs/POSTMORTEM.md) · [What Baconian did differently](docs/BACONIAN.md).
+**Final hackathon strategy: A14. Current post-event strategy: A18.** A18 passed 40-game qualification (25–15 vs A14) and improved the matched Baconian comparison from 14–23–3 to 18–17–5. [Population experiment](docs/POPULATION.md). Last captured standings: **59 Arena wins (tied fourth)** and **8 Clash wins (third)** at 19:37 PDT. These are the last saved leaderboard values, not a verified statement of the hackathon's overall awards. [Results and post-mortem](docs/POSTMORTEM.md) · [What Baconian did differently](docs/BACONIAN.md).
 
 ## Run locally
 
@@ -42,7 +42,7 @@ node client.js
 
 The default endpoint is `wss://latticeanimals.com/ws`, which was unreachable when this repository was published. An alternative endpoint can be passed as `node client.js "$LATTICE_TOKEN" wss://your-server/ws`. Keep exactly one player client per account. Use a service manager for crash/reconnect recovery; a laptop cannot play while asleep. The client supports server resume messages, but this repository does not install an always-on service.
 
-The public wrapper selects the unchanged frozen A14 entry. The transport adds environment-based token loading for publication. It does not read the author's machine-specific `.env` file.
+The public wrapper selects the frozen A18 entry; the default gym command retains the historical A14–A13 comparison. The transport adds environment-based token loading for publication. It does not read the author's machine-specific `.env` file.
 
 ## Strategy
 
@@ -50,6 +50,7 @@ The public wrapper selects the unchanged frozen A14 entry. The transport adds en
 - Evaluate the game's greedy global matcher, since owning a complete shape does not guarantee it receives a match.
 - Use coordinated deadline movement to defend against overlapping earlier-scanned formations.
 - Repair certain enclosed vacancies with a two-step movement chain (A13).
+- Choose the energy composition of unavoidable spares during early global assignment (A18).
 - Trade a healthy formation member for a nearby critical spare when an ideal-packing value model predicts a worthwhile future energy gain (A14).
 
 A14 does **not** make LLM/Jev calls or use persistent named-opponent memory. Those were separate experiments, not ingredients of the final deployment. Public cells are anonymous; inferred foreign behavior is not authenticated ownership.
@@ -60,13 +61,14 @@ A14 does **not** make LLM/Jev calls or use persistent named-opponent memory. Tho
 | A14 selective handoff vs A13 | 26–14, +3.025 mean energy margin | Final deployment |
 | A15b support insurance vs A14 | 18–18–4, zero mean energy margin | Rejected |
 | A16 broader gate repair vs A14 | 20–20, zero mean energy margin | Rejected after server resumed |
+| A18 population assignment vs A14 | 25–15, +3.05 mean energy margin | Post-event deployment |
 
 Each comparison used 20 seeds, both seats. These are separate local batches, not a ranking against every live opponent. The small champion **stand-in** screens were not tests against Baconian's actual source.
 
 ## Layout
 
-- `player.js`: public entry for frozen A14.
-- `codex/releases/`: A11, A13, A14 and rejected A15b/A16, with original manifests.
+- `player.js`: public entry for frozen A18.
+- `codex/releases/`: A11, A13, A14, A15b/A16, exploratory A17, and A18, with original manifests.
 - `codex/game/`: reference game engine from the contestant kit.
 - `evaluation/`: isolated-worker gym and paired-seat runner.
 - `tests/`: engine-checked handoff and support-insurance regressions.

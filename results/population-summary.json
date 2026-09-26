@@ -1,0 +1,85 @@
+{
+  "a14-baconian-control-7701": {
+    "games": 8,
+    "completePairedSeeds": 4,
+    "wins": 1,
+    "losses": 6,
+    "meanEnergyMargin": -11.125,
+    "meanEnergy": 38.625,
+    "meanOpponentEnergy": 49.75,
+    "meanSurvivors": 24.75,
+    "maxMs": 89.60800000000017,
+    "faultGames": 0,
+    "populationBatches": 0
+  },
+  "a17-baconian-screen-7701": {
+    "games": 8,
+    "completePairedSeeds": 4,
+    "wins": 2,
+    "losses": 6,
+    "meanEnergyMargin": -3.75,
+    "meanEnergy": 46.125,
+    "meanOpponentEnergy": 49.875,
+    "meanSurvivors": 27.75,
+    "maxMs": 80.52479199999999,
+    "faultGames": 0,
+    "populationBatches": 12
+  },
+  "a18-baconian-screen-7701": {
+    "games": 8,
+    "completePairedSeeds": 4,
+    "wins": 3,
+    "losses": 5,
+    "meanEnergyMargin": -2.5,
+    "meanEnergy": 47.125,
+    "meanOpponentEnergy": 49.625,
+    "meanSurvivors": 28.375,
+    "maxMs": 89.05749999999989,
+    "faultGames": 0,
+    "populationBatches": 14
+  },
+  "a18-baconian-confirm-7801": {
+    "games": 40,
+    "completePairedSeeds": 20,
+    "wins": 18,
+    "losses": 17,
+    "meanEnergyMargin": -0.525,
+    "meanEnergy": 47.0,
+    "meanOpponentEnergy": 47.525,
+    "meanSurvivors": 27.875,
+    "maxMs": 103.20495899999878,
+    "faultGames": 0,
+    "populationBatches": 79
+  },
+  "a14-baconian-confirm-7801": {
+    "games": 40,
+    "completePairedSeeds": 20,
+    "wins": 14,
+    "losses": 23,
+    "meanEnergyMargin": -2.375,
+    "meanEnergy": 44.225,
+    "meanOpponentEnergy": 46.6,
+    "meanSurvivors": 27.875,
+    "maxMs": 97.09525,
+    "faultGames": 0,
+    "populationBatches": 0
+  },
+  "a18-qualification-7901": {
+    "games": 40,
+    "completePairedSeeds": 20,
+    "wins": 25,
+    "losses": 15,
+    "meanEnergyMargin": 3.05,
+    "meanEnergy": 42.7,
+    "meanOpponentEnergy": 39.65,
+    "meanSurvivors": 26.6,
+    "maxMs": 109.50337500000023,
+    "faultGames": 0,
+    "populationBatches": 103
+  },
+  "matchedConfirmation": {
+    "games": 40,
+    "meanMarginImprovement": 1.85,
+    "meanOwnEnergyImprovement": 2.775
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "version": "population-global-a18",
+  "frozenAt": "2026-09-26T04:20:42.886008+00:00",
+  "sha256": "4ed5e2b577baeb394f99b03f91686eaaa81edbf693c0397de11b92c9496fd633",
+  "files": {
+    "handoff.cjs": "884ec874daa6ef62c03e87431d98b5ae629b585ab4c3d0baa504644e0204929f",
+    "player.js": "4ed5e2b577baeb394f99b03f91686eaaa81edbf693c0397de11b92c9496fd633",
+    "population.cjs": "6997200adcebb3a81032d608e6374cc1cd4a125f49c8a83c3812a37f69b886ec",
+    "value.cjs": "5052e86a06d289997e9305c66c6a9ec6d6c50194fd3b5136dc29a3faa1c1a903",
+    "game/Player.js": "f4fa76031bf1b18c0cc2cbe3525541d0dd11d6dd35e5311e7d1d0b20ae61ff96",
+    "a13/gate.cjs": "c0d0843a0afcbd562256c0904fc71fba27465c0ec4bd220a810668e3e39768f1",
+    "a13/player.js": "0892efd4a6c6e02a12f853952dd994a5b4afe987f2659fe8ea06e7d8acff79d2",
+    "a13/a11/profiler.cjs": "3f5bb578f21c627e98a7a7950ab3f811615412fed59e81d8f9810660086d7b93",
+    "a13/a11/controller.cjs": "b7c664693265e479ede65869750ffb3802ee74579853f99e1bf9e191e302290a",
+    "a13/a11/base.js": "7b28ffad97eecd6e94abb382b2268639c1b7aab04a3c9a87a1666f07c21aee0d",
+    "a13/a11/player.js": "b3e60430b3abaeaa5c0845cc141b0cce8cf1c6f4d07f8ce54623c7775e56ec8f",
+    "a13/a11/dodge.cjs": "fcf5ea5cce2c0541b30959bc68a06e6ae3b1848f576a7578d72e9ab939ea2b31",
+    "a13/game/Player.js": "f4fa76031bf1b18c0cc2cbe3525541d0dd11d6dd35e5311e7d1d0b20ae61ff96",
+    "a13/a11/game/Player.js": "f4fa76031bf1b18c0cc2cbe3525541d0dd11d6dd35e5311e7d1d0b20ae61ff96"
+  }
+}

@@ -1,0 +1,5534 @@
+{
+  "a14-baconian-control-7701": [
+    {
+      "seed": 7701,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 38,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 55,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -17,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 80.380417
+    },
+    {
+      "seed": 7701,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 37,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -15,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 84.38054199999999
+    },
+    {
+      "seed": 7702,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 42,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 54,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -12,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 66.92479099999991
+    },
+    {
+      "seed": 7702,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 26,
+        "survivorCount": 19,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 53,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -27,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 89.60800000000017
+    },
+    {
+      "seed": 7703,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 75.02562499999931
+    },
+    {
+      "seed": 7703,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 36,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -8,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 76.23470800000086
+    },
+    {
+      "seed": 7704,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "energyMargin": 0,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 64.2873750000017
+    },
+    {
+      "seed": 7704,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 39,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -12,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 84.57666699999936
+    }
+  ],
+  "a17-baconian-screen-7701": [
+    {
+      "seed": 7701,
+      "reversed": false,
+      "candidate": "population-a17",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 50,
+        "survivorCount": 29,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -1,
+      "population": {
+        "considered": 25,
+        "batches": 1,
+        "swaps": 2,
+        "unreachable": 24
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 79.59270800000002
+    },
+    {
+      "seed": 7701,
+      "reversed": true,
+      "candidate": "population-a17",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 54,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -4,
+      "population": {
+        "considered": 26,
+        "batches": 2,
+        "swaps": 3,
+        "unreachable": 24
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 80.52479199999999
+    },
+    {
+      "seed": 7702,
+      "reversed": false,
+      "candidate": "population-a17",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 42,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 54,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -12,
+      "population": {
+        "considered": 48,
+        "batches": 0,
+        "swaps": 0,
+        "unreachable": 48
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 68.40920800000004
+    },
+    {
+      "seed": 7702,
+      "reversed": true,
+      "candidate": "population-a17",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 53,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": {
+        "considered": 12,
+        "batches": 1,
+        "swaps": 1,
+        "unreachable": 11
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 77.98724999999968
+    },
+    {
+      "seed": 7703,
+      "reversed": false,
+      "candidate": "population-a17",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 6,
+      "population": {
+        "considered": 38,
+        "batches": 1,
+        "swaps": 2,
+        "unreachable": 37
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 78.52308400000038
+    },
+    {
+      "seed": 7703,
+      "reversed": true,
+      "candidate": "population-a17",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 39,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -5,
+      "population": {
+        "considered": 42,
+        "batches": 1,
+        "swaps": 1,
+        "unreachable": 41
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 62.34833299999991
+    },
+    {
+      "seed": 7704,
+      "reversed": false,
+      "candidate": "population-a17",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 47,
+        "survivorCount": 28,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -3,
+      "population": {
+        "considered": 32,
+        "batches": 1,
+        "swaps": 1,
+        "unreachable": 31
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 64.53650000000016
+    },
+    {
+      "seed": 7704,
+      "reversed": true,
+      "candidate": "population-a17",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 38,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -13,
+      "population": {
+        "considered": 63,
+        "batches": 5,
+        "swaps": 5,
+        "unreachable": 58
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 64.69958399999996
+    }
+  ],
+  "a18-baconian-screen-7701": [
+    {
+      "seed": 7701,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 52,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 49,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 3,
+      "population": {
+        "considered": 17,
+        "batches": 2,
+        "swaps": 28,
+        "unreachable": 15
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 82.007125
+    },
+    {
+      "seed": 7701,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 54,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -7,
+      "population": {
+        "considered": 27,
+        "batches": 1,
+        "swaps": 8,
+        "unreachable": 26
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 82.643541
+    },
+    {
+      "seed": 7702,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 42,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 54,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -12,
+      "population": {
+        "considered": 48,
+        "batches": 0,
+        "swaps": 0,
+        "unreachable": 48
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 67.15800000000036
+    },
+    {
+      "seed": 7702,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 53,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": {
+        "considered": 12,
+        "batches": 1,
+        "swaps": 9,
+        "unreachable": 11
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 89.05749999999989
+    },
+    {
+      "seed": 7703,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": {
+        "considered": 35,
+        "batches": 2,
+        "swaps": 21,
+        "unreachable": 33
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 74.13116600000012
+    },
+    {
+      "seed": 7703,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 28,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": 0,
+      "population": {
+        "considered": 23,
+        "batches": 2,
+        "swaps": 31,
+        "unreachable": 21
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 80.16608300000007
+    },
+    {
+      "seed": 7704,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 47,
+        "survivorCount": 28,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -3,
+      "population": {
+        "considered": 32,
+        "batches": 1,
+        "swaps": 16,
+        "unreachable": 31
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 62.291417000000365
+    },
+    {
+      "seed": 7704,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -5,
+      "population": {
+        "considered": 17,
+        "batches": 5,
+        "swaps": 52,
+        "unreachable": 12
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 88.03058299999975
+    }
+  ],
+  "a18-baconian-confirm-7801": [
+    {
+      "seed": 7801,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "energyMargin": 0,
+      "population": {
+        "considered": 3,
+        "batches": 2,
+        "swaps": 15,
+        "unreachable": 1
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 76.95741699999999
+    },
+    {
+      "seed": 7801,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 56,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 6,
+      "population": {
+        "considered": 1,
+        "batches": 1,
+        "swaps": 13,
+        "unreachable": 0
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 97.6505
+    },
+    {
+      "seed": 7802,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": 0,
+      "population": {
+        "considered": 17,
+        "batches": 5,
+        "swaps": 45,
+        "unreachable": 12
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 90.30375000000004
+    },
+    {
+      "seed": 7802,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 45,
+        "survivorCount": 29,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": 0,
+      "population": {
+        "considered": 29,
+        "batches": 2,
+        "swaps": 28,
+        "unreachable": 27
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 82.66720799999985
+    },
+    {
+      "seed": 7803,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 44,
+        "survivorCount": 26,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -4,
+      "population": {
+        "considered": 45,
+        "batches": 1,
+        "swaps": 19,
+        "unreachable": 44
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 75.40200000000004
+    },
+    {
+      "seed": 7803,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 37,
+        "survivorCount": 23,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -11,
+      "population": {
+        "considered": 14,
+        "batches": 2,
+        "swaps": 29,
+        "unreachable": 12
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 70.83358299999963
+    },
+    {
+      "seed": 7804,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 47,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -1,
+      "population": {
+        "considered": 24,
+        "batches": 4,
+        "swaps": 31,
+        "unreachable": 20
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 87.1734579999993
+    },
+    {
+      "seed": 7804,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 43,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 5,
+      "population": {
+        "considered": 3,
+        "batches": 3,
+        "swaps": 43,
+        "unreachable": 0
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 70.11737499999981
+    },
+    {
+      "seed": 7805,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 43,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -9,
+      "population": {
+        "considered": 38,
+        "batches": 3,
+        "swaps": 43,
+        "unreachable": 35
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 95.62874999999985
+    },
+    {
+      "seed": 7805,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 27,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -8,
+      "population": {
+        "considered": 9,
+        "batches": 2,
+        "swaps": 24,
+        "unreachable": 7
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 74.01754100000107
+    },
+    {
+      "seed": 7806,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 29,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 4,
+      "population": {
+        "considered": 15,
+        "batches": 3,
+        "swaps": 46,
+        "unreachable": 12
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 91.69020799999998
+    },
+    {
+      "seed": 7806,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 38,
+        "survivorCount": 21,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -8,
+      "population": {
+        "considered": 48,
+        "batches": 2,
+        "swaps": 21,
+        "unreachable": 46
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 78.23691700000018
+    },
+    {
+      "seed": 7807,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 53,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": {
+        "considered": 15,
+        "batches": 2,
+        "swaps": 30,
+        "unreachable": 13
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 75.44925000000148
+    },
+    {
+      "seed": 7807,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 1,
+      "population": {
+        "considered": 30,
+        "batches": 1,
+        "swaps": 11,
+        "unreachable": 29
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 103.20495899999878
+    },
+    {
+      "seed": 7808,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 44,
+        "survivorCount": 29,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -3,
+      "population": {
+        "considered": 62,
+        "batches": 2,
+        "swaps": 33,
+        "unreachable": 60
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 82.61095899999782
+    },
+    {
+      "seed": 7808,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 3,
+      "population": {
+        "considered": 33,
+        "batches": 1,
+        "swaps": 10,
+        "unreachable": 32
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 92.54479199999696
+    },
+    {
+      "seed": 7809,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "energyMargin": 0,
+      "population": {
+        "considered": 11,
+        "batches": 3,
+        "swaps": 39,
+        "unreachable": 8
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 82.91508299999987
+    },
+    {
+      "seed": 7809,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 45,
+        "survivorCount": 27,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -7,
+      "population": {
+        "considered": 13,
+        "batches": 2,
+        "swaps": 12,
+        "unreachable": 11
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 93.80383299999812
+    },
+    {
+      "seed": 7810,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 56,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 56,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "energyMargin": 0,
+      "population": {
+        "considered": 10,
+        "batches": 1,
+        "swaps": 12,
+        "unreachable": 9
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 79.99483400000099
+    },
+    {
+      "seed": 7810,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 56,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 56,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "energyMargin": 0,
+      "population": {
+        "considered": 13,
+        "batches": 1,
+        "swaps": 10,
+        "unreachable": 12
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 79.5927499999998
+    },
+    {
+      "seed": 7811,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 54,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 40,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 14,
+      "population": {
+        "considered": 31,
+        "batches": 1,
+        "swaps": 19,
+        "unreachable": 30
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 63.618500000000495
+    },
+    {
+      "seed": 7811,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 40,
+        "survivorCount": 25,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 38,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": {
+        "considered": 48,
+        "batches": 4,
+        "swaps": 41,
+        "unreachable": 44
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 88.60029099999883
+    },
+    {
+      "seed": 7812,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 56,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 6,
+      "population": {
+        "considered": 38,
+        "batches": 2,
+        "swaps": 28,
+        "unreachable": 36
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 81.36612499999683
+    },
+    {
+      "seed": 7812,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 30,
+        "survivorCount": 21,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 39,
+        "survivorCount": 24,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -9,
+      "population": {
+        "considered": 65,
+        "batches": 4,
+        "swaps": 42,
+        "unreachable": 61
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 81.40491699999984
+    },
+    {
+      "seed": 7813,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 47,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": {
+        "considered": 45,
+        "batches": 2,
+        "swaps": 24,
+        "unreachable": 43
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 76.0602080000026
+    },
+    {
+      "seed": 7813,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 41,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 5,
+      "population": {
+        "considered": 27,
+        "batches": 3,
+        "swaps": 59,
+        "unreachable": 24
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 93.88970799999515
+    },
+    {
+      "seed": 7814,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 40,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -8,
+      "population": {
+        "considered": 23,
+        "batches": 2,
+        "swaps": 12,
+        "unreachable": 21
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 76.3682919999992
+    },
+    {
+      "seed": 7814,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 49,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 3,
+      "population": {
+        "considered": 11,
+        "batches": 1,
+        "swaps": 12,
+        "unreachable": 10
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 97.7253339999952
+    },
+    {
+      "seed": 7815,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 42,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 5,
+      "population": {
+        "considered": 20,
+        "batches": 2,
+        "swaps": 28,
+        "unreachable": 18
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 70.66208400000323
+    },
+    {
+      "seed": 7815,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 43,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 9,
+      "population": {
+        "considered": 23,
+        "batches": 3,
+        "swaps": 37,
+        "unreachable": 20
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 86.86804200000188
+    },
+    {
+      "seed": 7816,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 44,
+        "survivorCount": 26,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 54,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -10,
+      "population": {
+        "considered": 42,
+        "batches": 2,
+        "swaps": 26,
+        "unreachable": 40
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 77.65945900000224
+    },
+    {
+      "seed": 7816,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 53,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 53,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "energyMargin": 0,
+      "population": {
+        "considered": 34,
+        "batches": 0,
+        "swaps": 0,
+        "unreachable": 34
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 81.0655839999963
+    },
+    {
+      "seed": 7817,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 4,
+      "population": {
+        "considered": 28,
+        "batches": 3,
+        "swaps": 35,
+        "unreachable": 25
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 64.00975000000471
+    },
+    {
+      "seed": 7817,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 48,
+        "survivorCount": 29,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 43,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 5,
+      "population": {
+        "considered": 27,
+        "batches": 2,
+        "swaps": 26,
+        "unreachable": 25
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 81.72345900000073
+    },
+    {
+      "seed": 7818,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 40,
+        "survivorCount": 27,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -6,
+      "population": {
+        "considered": 43,
+        "batches": 0,
+        "swaps": 0,
+        "unreachable": 43
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 72.0122909999991
+    },
+    {
+      "seed": 7818,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 31,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 6,
+      "population": {
+        "considered": 43,
+        "batches": 0,
+        "swaps": 0,
+        "unreachable": 43
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 84.84995899999922
+    },
+    {
+      "seed": 7819,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 39,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -11,
+      "population": {
+        "considered": 40,
+        "batches": 1,
+        "swaps": 13,
+        "unreachable": 39
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 78.48729100000492
+    },
+    {
+      "seed": 7819,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -3,
+      "population": {
+        "considered": 36,
+        "batches": 0,
+        "swaps": 0,
+        "unreachable": 36
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 73.71783300000243
+    },
+    {
+      "seed": 7820,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 43,
+        "survivorCount": 26,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -7,
+      "population": {
+        "considered": 25,
+        "batches": 3,
+        "swaps": 44,
+        "unreachable": 22
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 67.15866599999572
+    },
+    {
+      "seed": 7820,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 54,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": {
+        "considered": 1,
+        "batches": 1,
+        "swaps": 13,
+        "unreachable": 0
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 86.77595899999869
+    }
+  ],
+  "a14-baconian-confirm-7801": [
+    {
+      "seed": 7801,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 37,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -7,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 73.998625
+    },
+    {
+      "seed": 7801,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 26,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -6,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 97.09525
+    },
+    {
+      "seed": 7802,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 37,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -9,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 78.95462499999985
+    },
+    {
+      "seed": 7802,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 37,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -8,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 80.35624999999982
+    },
+    {
+      "seed": 7803,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "energyMargin": 0,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 65.32933400000002
+    },
+    {
+      "seed": 7803,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 86.4770410000001
+    },
+    {
+      "seed": 7804,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 43,
+        "survivorCount": 29,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -5,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 74.86312499999985
+    },
+    {
+      "seed": 7804,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 1,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 86.2546250000014
+    },
+    {
+      "seed": 7805,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -4,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 73.12537499999962
+    },
+    {
+      "seed": 7805,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 40,
+        "survivorCount": 27,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -5,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 87.21458300000086
+    },
+    {
+      "seed": 7806,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 47,
+        "survivorCount": 31,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 1,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 72.7797499999997
+    },
+    {
+      "seed": 7806,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 35,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -11,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 95.37404199999946
+    },
+    {
+      "seed": 7807,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 37,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 49,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -12,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 59.589584000001196
+    },
+    {
+      "seed": 7807,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "energyMargin": 0,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 71.80879199999981
+    },
+    {
+      "seed": 7808,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 43,
+        "survivorCount": 28,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -4,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 63.314540999999736
+    },
+    {
+      "seed": 7808,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -4,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 90.11108299999978
+    },
+    {
+      "seed": 7809,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 35,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -15,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 62.832375000001775
+    },
+    {
+      "seed": 7809,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 43,
+        "survivorCount": 27,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 42,
+        "survivorCount": 28,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 1,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 94.86775000000125
+    },
+    {
+      "seed": 7810,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 49,
+        "survivorCount": 25,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -1,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 70.03912499999933
+    },
+    {
+      "seed": 7810,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 56,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -4,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 70.54524999999921
+    },
+    {
+      "seed": 7811,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 49,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 40,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 9,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 65.12012500000128
+    },
+    {
+      "seed": 7811,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 49,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 40,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 9,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 90.32829199999833
+    },
+    {
+      "seed": 7812,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 1,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 71.6975829999974
+    },
+    {
+      "seed": 7812,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 32,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 14,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 81.50391599999784
+    },
+    {
+      "seed": 7813,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 43,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 69.16154200000165
+    },
+    {
+      "seed": 7813,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 47,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 1,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 85.69570799999929
+    },
+    {
+      "seed": 7814,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 43,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -3,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 77.55645899999945
+    },
+    {
+      "seed": 7814,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 42,
+        "survivorCount": 26,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -4,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 85.67620800000441
+    },
+    {
+      "seed": 7815,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 37,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -7,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 63.17583399999421
+    },
+    {
+      "seed": 7815,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 41,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 9,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 78.32283399999869
+    },
+    {
+      "seed": 7816,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 49,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 1,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 76.96591700000135
+    },
+    {
+      "seed": 7816,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 53,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 53,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": false
+      },
+      "energyMargin": 0,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 84.31225000000268
+    },
+    {
+      "seed": 7817,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 7,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 62.97629200000665
+    },
+    {
+      "seed": 7817,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 42,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 43,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -1,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 87.02958300000319
+    },
+    {
+      "seed": 7818,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 40,
+        "survivorCount": 27,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -6,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 64.57758299999841
+    },
+    {
+      "seed": 7818,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 31,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 6,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 82.0190419999999
+    },
+    {
+      "seed": 7819,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 36,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -14,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 77.48033299999952
+    },
+    {
+      "seed": 7819,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -3,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 72.00545799999963
+    },
+    {
+      "seed": 7820,
+      "reversed": false,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 33,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 54,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -21,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 65.09391599999799
+    },
+    {
+      "seed": 7820,
+      "reversed": true,
+      "candidate": "handoff-a14",
+      "opponent": "baconian-source",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -5,
+      "population": null,
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 84.7088750000039
+    }
+  ],
+  "a18-qualification-7901": [
+    {
+      "seed": 7901,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 41,
+        "survivorCount": 24,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 32,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 9,
+      "population": {
+        "considered": 31,
+        "batches": 2,
+        "swaps": 15,
+        "unreachable": 29
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 78.621042
+    },
+    {
+      "seed": 7901,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 33,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 34,
+        "survivorCount": 24,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -1,
+      "population": {
+        "considered": 18,
+        "batches": 3,
+        "swaps": 30,
+        "unreachable": 15
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 95.468458
+    },
+    {
+      "seed": 7902,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 41,
+        "survivorCount": 29,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 9,
+      "population": {
+        "considered": 12,
+        "batches": 1,
+        "swaps": 15,
+        "unreachable": 11
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 70.55937500000005
+    },
+    {
+      "seed": 7902,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 34,
+        "survivorCount": 23,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 49,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -15,
+      "population": {
+        "considered": 46,
+        "batches": 2,
+        "swaps": 19,
+        "unreachable": 44
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 89.59616700000015
+    },
+    {
+      "seed": 7903,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 34,
+        "survivorCount": 22,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 39,
+        "survivorCount": 26,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -5,
+      "population": {
+        "considered": 67,
+        "batches": 1,
+        "swaps": 13,
+        "unreachable": 66
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 70.74162500000011
+    },
+    {
+      "seed": 7903,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 39,
+        "survivorCount": 28,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 5,
+      "population": {
+        "considered": 21,
+        "batches": 2,
+        "swaps": 20,
+        "unreachable": 19
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 83.97845799999959
+    },
+    {
+      "seed": 7904,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 45,
+        "survivorCount": 28,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 3,
+      "population": {
+        "considered": 20,
+        "batches": 1,
+        "swaps": 10,
+        "unreachable": 19
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 70.07079200000044
+    },
+    {
+      "seed": 7904,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 49,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": {
+        "considered": 26,
+        "batches": 3,
+        "swaps": 36,
+        "unreachable": 23
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 94.19562500000029
+    },
+    {
+      "seed": 7905,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 44,
+        "survivorCount": 25,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 29,
+        "survivorCount": 23,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 15,
+      "population": {
+        "considered": 12,
+        "batches": 5,
+        "swaps": 47,
+        "unreachable": 7
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 79.66220800000156
+    },
+    {
+      "seed": 7905,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 39,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 29,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -7,
+      "population": {
+        "considered": 11,
+        "batches": 3,
+        "swaps": 38,
+        "unreachable": 8
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 92.41395900000134
+    },
+    {
+      "seed": 7906,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 41,
+        "survivorCount": 23,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 27,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -3,
+      "population": {
+        "considered": 11,
+        "batches": 2,
+        "swaps": 17,
+        "unreachable": 9
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 71.44212499999958
+    },
+    {
+      "seed": 7906,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 54,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 4,
+      "population": {
+        "considered": 2,
+        "batches": 1,
+        "swaps": 7,
+        "unreachable": 1
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 87.04058400000031
+    },
+    {
+      "seed": 7907,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 41,
+        "survivorCount": 29,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 37,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 4,
+      "population": {
+        "considered": 60,
+        "batches": 1,
+        "swaps": 18,
+        "unreachable": 59
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 91.18812500000058
+    },
+    {
+      "seed": 7907,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 39,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 40,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -1,
+      "population": {
+        "considered": 80,
+        "batches": 7,
+        "swaps": 66,
+        "unreachable": 73
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 94.70125000000007
+    },
+    {
+      "seed": 7908,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 43,
+        "survivorCount": 26,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 42,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 1,
+      "population": {
+        "considered": 7,
+        "batches": 2,
+        "swaps": 26,
+        "unreachable": 5
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 94.8980419999989
+    },
+    {
+      "seed": 7908,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 37,
+        "survivorCount": 26,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 7,
+      "population": {
+        "considered": 13,
+        "batches": 2,
+        "swaps": 34,
+        "unreachable": 11
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 79.98541599999953
+    },
+    {
+      "seed": 7909,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 45,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": 0,
+      "population": {
+        "considered": 52,
+        "batches": 3,
+        "swaps": 49,
+        "unreachable": 49
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 91.95900000000256
+    },
+    {
+      "seed": 7909,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -1,
+      "population": {
+        "considered": 11,
+        "batches": 3,
+        "swaps": 46,
+        "unreachable": 8
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 80.31954200000109
+    },
+    {
+      "seed": 7910,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 43,
+        "survivorCount": 26,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 3,
+      "population": {
+        "considered": 39,
+        "batches": 8,
+        "swaps": 98,
+        "unreachable": 31
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 100.8660830000008
+    },
+    {
+      "seed": 7910,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 37,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 40,
+        "survivorCount": 27,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -3,
+      "population": {
+        "considered": 56,
+        "batches": 1,
+        "swaps": 10,
+        "unreachable": 55
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 86.88204199999745
+    },
+    {
+      "seed": 7911,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 31,
+        "survivorCount": 20,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 26,
+        "survivorCount": 20,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 5,
+      "population": {
+        "considered": 42,
+        "batches": 3,
+        "swaps": 33,
+        "unreachable": 39
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 89.08966700000019
+    },
+    {
+      "seed": 7911,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 41,
+        "survivorCount": 25,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 29,
+        "survivorCount": 20,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 12,
+      "population": {
+        "considered": 27,
+        "batches": 3,
+        "swaps": 26,
+        "unreachable": 24
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 83.71366699999999
+    },
+    {
+      "seed": 7912,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 37,
+        "survivorCount": 27,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 41,
+        "survivorCount": 26,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -4,
+      "population": {
+        "considered": 8,
+        "batches": 6,
+        "swaps": 62,
+        "unreachable": 2
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 90.22649999999703
+    },
+    {
+      "seed": 7912,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 38,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 39,
+        "survivorCount": 24,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -1,
+      "population": {
+        "considered": 32,
+        "batches": 1,
+        "swaps": 18,
+        "unreachable": 31
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 94.73995899999863
+    },
+    {
+      "seed": 7913,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 41,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 43,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -2,
+      "population": {
+        "considered": 56,
+        "batches": 2,
+        "swaps": 30,
+        "unreachable": 54
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 71.06158299999879
+    },
+    {
+      "seed": 7913,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 36,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -11,
+      "population": {
+        "considered": 33,
+        "batches": 5,
+        "swaps": 69,
+        "unreachable": 28
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 73.25529199999801
+    },
+    {
+      "seed": 7914,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 29,
+        "survivorCount": 20,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -18,
+      "population": {
+        "considered": 32,
+        "batches": 2,
+        "swaps": 19,
+        "unreachable": 30
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 83.50012499999866
+    },
+    {
+      "seed": 7914,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 34,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 18,
+      "population": {
+        "considered": 23,
+        "batches": 2,
+        "swaps": 31,
+        "unreachable": 21
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 109.50337500000023
+    },
+    {
+      "seed": 7915,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 37,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 13,
+      "population": {
+        "considered": 12,
+        "batches": 3,
+        "swaps": 47,
+        "unreachable": 9
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 71.93579200000022
+    },
+    {
+      "seed": 7915,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 34,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "energyMargin": -12,
+      "population": {
+        "considered": 19,
+        "batches": 1,
+        "swaps": 11,
+        "unreachable": 18
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 93.71720899999855
+    },
+    {
+      "seed": 7916,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 36,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 10,
+      "population": {
+        "considered": 28,
+        "batches": 2,
+        "swaps": 31,
+        "unreachable": 26
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 69.8615000000027
+    },
+    {
+      "seed": 7916,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 41,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 9,
+      "population": {
+        "considered": 7,
+        "batches": 3,
+        "swaps": 33,
+        "unreachable": 4
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 95.43862499999886
+    },
+    {
+      "seed": 7917,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 40,
+        "survivorCount": 23,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 37,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 3,
+      "population": {
+        "considered": 22,
+        "batches": 2,
+        "swaps": 14,
+        "unreachable": 20
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 74.18429100000503
+    },
+    {
+      "seed": 7917,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 45,
+        "survivorCount": 27,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 41,
+        "survivorCount": 26,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 4,
+      "population": {
+        "considered": 10,
+        "batches": 2,
+        "swaps": 18,
+        "unreachable": 8
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 99.79962499999965
+    },
+    {
+      "seed": 7918,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 32,
+        "survivorCount": 21,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 13,
+      "population": {
+        "considered": 6,
+        "batches": 3,
+        "swaps": 33,
+        "unreachable": 3
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 88.96375000000262
+    },
+    {
+      "seed": 7918,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 29,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 41,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 5,
+      "population": {
+        "considered": 21,
+        "batches": 2,
+        "swaps": 20,
+        "unreachable": 19
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 86.63016700000298
+    },
+    {
+      "seed": 7919,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 25,
+        "survivorCount": 18,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 25,
+      "population": {
+        "considered": 15,
+        "batches": 2,
+        "swaps": 26,
+        "unreachable": 13
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 85.16333399999712
+    },
+    {
+      "seed": 7919,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 2,
+      "population": {
+        "considered": 47,
+        "batches": 3,
+        "swaps": 32,
+        "unreachable": 44
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 97.0277500000011
+    },
+    {
+      "seed": 7920,
+      "reversed": false,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p0",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p1",
+        "totalEnergy": 39,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 8,
+      "population": {
+        "considered": 34,
+        "batches": 2,
+        "swaps": 27,
+        "unreachable": 32
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 74.5737500000032
+    },
+    {
+      "seed": 7920,
+      "reversed": true,
+      "candidate": "population-global-a18",
+      "opponent": "handoff-a14",
+      "candidateResult": {
+        "name": "p1",
+        "totalEnergy": 51,
+        "survivorCount": 29,
+        "rank": 1,
+        "winner": true
+      },
+      "opponentResult": {
+        "name": "p0",
+        "totalEnergy": 34,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      },
+      "energyMargin": 17,
+      "population": {
+        "considered": 19,
+        "batches": 1,
+        "swaps": 12,
+        "unreachable": 18
+      },
+      "faults": [
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        },
+        {
+          "timeouts": 0,
+          "invalid": 0,
+          "errors": []
+        }
+      ],
+      "maxMs": 80.30833300000086
+    }
+  ]
+}
