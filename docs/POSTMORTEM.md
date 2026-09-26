@@ -54,7 +54,7 @@ The final saelra loss was **41–44, 30 survivors each**. A14's round-11 handoff
 
 ## Availability and evaluation were part of the outcome
 
-Our client had an abrupt local process disappearance and interrupted games. Moving it to launchd at 19:16 made it independent of the coding session during that Mac login, but it still depended on the Mac staying awake. We also excluded a 37–0 victory over tyggy from strategic claims after verifying impaired opponent participation. After the event ended and DNS failed, the gettyggy service was stopped rather than left retrying.
+Our client had an abrupt local process disappearance and interrupted games. Moving it to launchd at 19:16 made it independent of the coding session during that Mac login, but it still depended on the Mac staying awake. We also excluded a 37–0 victory over tyggy from strategic claims after verifying impaired opponent participation. During the DNS outage, the gettyggy service was stopped rather than left retrying. After the server returned, A14 was restarted at 20:47 PDT. This recap retains the earlier 19:37 capture as its explicit cutoff; resumed play is a new observation period.
 
 We repeatedly beat a champion **stand-in** without establishing superiority over the real competitor. After the event, an eight-game screen against Baconian's actual published `main` produced **2 wins, 6 losses, −2.75 mean energy margin**, with no host faults. That small screen has no neutral golem and the published commit is not a verified match to the live deployment. It establishes a useful testable opponent, not a new definitive ranking. [Screen summary](../results/baconian-screen.json), [source review](BACONIAN.md).
 
