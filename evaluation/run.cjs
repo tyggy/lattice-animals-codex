@@ -4,6 +4,7 @@ const args=process.argv.slice(2);
 function option(name,fallback){const i=args.indexOf(name);return i<0?fallback:args[i+1];}
 const seeds=Number(option('--seeds',2)),start=Number(option('--start',5801));
 const candidate=option('--candidate','handoff-a14'),opponent=option('--opponent','gate-a13');
+const opponentModule=option('--opponent-module',null);
 const out=path.resolve(option('--output','runs/comparison.jsonl'));
 if(!Number.isInteger(seeds)||seeds<1||!Number.isInteger(start))throw Error('seeds and start must be integers');
 const kind=release=>({name:release,module:path.resolve(__dirname,'../codex/releases',release,'player.js')});
@@ -12,7 +13,7 @@ const kind=release=>({name:release,module:path.resolve(__dirname,'../codex/relea
  let wins=0,losses=0,draws=0,margin=0,faults=0;
  try{
   for(let seed=start;seed<start+seeds;seed++)for(const reversed of [false,true]){
-   const kinds=[kind(candidate),kind(opponent)];if(reversed)kinds.reverse();
+   const kinds=[kind(candidate),opponentModule?{name:path.basename(path.dirname(opponentModule)),module:path.resolve(opponentModule)}:kind(opponent)];if(reversed)kinds.reverse();
    const row=await match({seed,kinds,units:32,rounds:16,turns:64,turnMs:500});
    row.reversed=reversed;fs.writeSync(fd,JSON.stringify(row)+'\n');
    const ci=reversed?1:0,me=row.results.find(r=>r.name===`p${ci}`),other=row.results.find(r=>r.name===`p${1-ci}`);

@@ -1,0 +1,842 @@
+[
+  {
+    "seed": 7601,
+    "reversed": false,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 49,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 55,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 484,
+        "available": 499,
+        "maxMs": 88.075792,
+        "p95Ms": 3.907709000000068
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 476,
+        "available": 485,
+        "maxMs": 39.517041,
+        "p95Ms": 8.857124999999996
+      }
+    ]
+  },
+  {
+    "seed": 7601,
+    "reversed": true,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 38,
+        "survivorCount": 24,
+        "rank": 1,
+        "winner": true
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 33,
+        "survivorCount": 20,
+        "rank": 2,
+        "winner": false
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 429,
+        "available": 455,
+        "maxMs": 38.355582999999996,
+        "p95Ms": 9.058958999999959
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 419,
+        "available": 450,
+        "maxMs": 102.845958,
+        "p95Ms": 3.501291000000009
+      }
+    ]
+  },
+  {
+    "seed": 7602,
+    "reversed": false,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 32,
+        "rank": 1,
+        "winner": true
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 43,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 496,
+        "available": 512,
+        "maxMs": 77.6944169999997,
+        "p95Ms": 3.2874590000001263
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 454,
+        "available": 475,
+        "maxMs": 32.9074999999998,
+        "p95Ms": 9.921374999999898
+      }
+    ]
+  },
+  {
+    "seed": 7602,
+    "reversed": true,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 37,
+        "survivorCount": 25,
+        "rank": 2,
+        "winner": false
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 464,
+        "available": 484,
+        "maxMs": 32.31962500000009,
+        "p95Ms": 9.378958000000239
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 449,
+        "available": 476,
+        "maxMs": 97.58979200000022,
+        "p95Ms": 3.1506250000002183
+      }
+    ]
+  },
+  {
+    "seed": 7603,
+    "reversed": false,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 37,
+        "survivorCount": 27,
+        "rank": 2,
+        "winner": false
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 50,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 465,
+        "available": 492,
+        "maxMs": 83.72941699999956,
+        "p95Ms": 3.443374999998923
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 470,
+        "available": 484,
+        "maxMs": 33.6532500000003,
+        "p95Ms": 8.53887500000019
+      }
+    ]
+  },
+  {
+    "seed": 7603,
+    "reversed": true,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 49,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 31,
+        "survivorCount": 21,
+        "rank": 2,
+        "winner": false
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 470,
+        "available": 485,
+        "maxMs": 32.811916999999994,
+        "p95Ms": 8.571334000000206
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 434,
+        "available": 467,
+        "maxMs": 103.40708300000006,
+        "p95Ms": 3.2639170000002196
+      }
+    ]
+  },
+  {
+    "seed": 7604,
+    "reversed": false,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 51,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 39,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 492,
+        "available": 505,
+        "maxMs": 84.99683299999924,
+        "p95Ms": 3.2066669999985606
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 469,
+        "available": 494,
+        "maxMs": 31.687458000000333,
+        "p95Ms": 9.494082999999591
+      }
+    ]
+  },
+  {
+    "seed": 7604,
+    "reversed": true,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 49,
+        "survivorCount": 29,
+        "rank": 1,
+        "winner": true
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 470,
+        "available": 487,
+        "maxMs": 38.619833000000654,
+        "p95Ms": 9.220416999998633
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 490,
+        "available": 505,
+        "maxMs": 76.93420800000058,
+        "p95Ms": 3.2901250000013533
+      }
+    ]
+  },
+  {
+    "seed": 7605,
+    "reversed": false,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 486,
+        "available": 498,
+        "maxMs": 81.51633299999958,
+        "p95Ms": 2.79595800000061
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 466,
+        "available": 484,
+        "maxMs": 33.11579200000051,
+        "p95Ms": 8.958125000001019
+      }
+    ]
+  },
+  {
+    "seed": 7605,
+    "reversed": true,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 44,
+        "survivorCount": 28,
+        "rank": 2,
+        "winner": false
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 474,
+        "available": 490,
+        "maxMs": 33.737458999999944,
+        "p95Ms": 8.335500000001048
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 480,
+        "available": 500,
+        "maxMs": 96.08004099999926,
+        "p95Ms": 3.594583000000057
+      }
+    ]
+  },
+  {
+    "seed": 7606,
+    "reversed": false,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 28,
+        "rank": 2,
+        "winner": false
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 466,
+        "available": 485,
+        "maxMs": 85.11895799999911,
+        "p95Ms": 3.138082999999824
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 468,
+        "available": 487,
+        "maxMs": 31.352082999999766,
+        "p95Ms": 8.800209000000905
+      }
+    ]
+  },
+  {
+    "seed": 7606,
+    "reversed": true,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 49,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 468,
+        "available": 487,
+        "maxMs": 38.1656669999993,
+        "p95Ms": 9.037291999997251
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 466,
+        "available": 481,
+        "maxMs": 90.18370900000082,
+        "p95Ms": 3.1144580000000133
+      }
+    ]
+  },
+  {
+    "seed": 7607,
+    "reversed": false,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 42,
+        "survivorCount": 27,
+        "rank": 2,
+        "winner": false
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 474,
+        "available": 496,
+        "maxMs": 77.92025000000285,
+        "p95Ms": 3.582125000000815
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 468,
+        "available": 486,
+        "maxMs": 33.753458999999566,
+        "p95Ms": 9.151333000001614
+      }
+    ]
+  },
+  {
+    "seed": 7607,
+    "reversed": true,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 44,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 45,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 466,
+        "available": 486,
+        "maxMs": 34.398417000000336,
+        "p95Ms": 9.333791000000929
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 486,
+        "available": 505,
+        "maxMs": 96.22062500000175,
+        "p95Ms": 4.008999999998196
+      }
+    ]
+  },
+  {
+    "seed": 7608,
+    "reversed": false,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 45,
+        "survivorCount": 29,
+        "rank": 2,
+        "winner": false
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 54,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 484,
+        "available": 503,
+        "maxMs": 82.9399169999997,
+        "p95Ms": 3.324625000001106
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 480,
+        "available": 490,
+        "maxMs": 33.19591700000092,
+        "p95Ms": 8.196625000000495
+      }
+    ]
+  },
+  {
+    "seed": 7608,
+    "reversed": true,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 52,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 28,
+        "rank": 2,
+        "winner": false
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 481,
+        "available": 493,
+        "maxMs": 33.4409169999999,
+        "p95Ms": 8.34324999999808
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 483,
+        "available": 501,
+        "maxMs": 94.51058299999931,
+        "p95Ms": 3.0136659999989206
+      }
+    ]
+  },
+  {
+    "seed": 7609,
+    "reversed": false,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 43,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 48,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 466,
+        "available": 487,
+        "maxMs": 83.11912500000108,
+        "p95Ms": 3.1955419999976584
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 470,
+        "available": 486,
+        "maxMs": 31.681292000001122,
+        "p95Ms": 9.086750000002212
+      }
+    ]
+  },
+  {
+    "seed": 7609,
+    "reversed": true,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 49,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 35,
+        "survivorCount": 24,
+        "rank": 2,
+        "winner": false
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 473,
+        "available": 488,
+        "maxMs": 34.75733400000172,
+        "p95Ms": 9.280750000001717
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 459,
+        "available": 488,
+        "maxMs": 97.71333300000333,
+        "p95Ms": 3.196124999998574
+      }
+    ]
+  },
+  {
+    "seed": 7610,
+    "reversed": false,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 47,
+        "survivorCount": 30,
+        "rank": 1,
+        "winner": true
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 36,
+        "survivorCount": 28,
+        "rank": 2,
+        "winner": false
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 480,
+        "available": 497,
+        "maxMs": 81.84670800000094,
+        "p95Ms": 3.333167000000685
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 456,
+        "available": 484,
+        "maxMs": 31.308207999998558,
+        "p95Ms": 9.328917000002548
+      }
+    ]
+  },
+  {
+    "seed": 7610,
+    "reversed": true,
+    "results": [
+      {
+        "name": "p0",
+        "totalEnergy": 40,
+        "survivorCount": 30,
+        "rank": 2,
+        "winner": false
+      },
+      {
+        "name": "p1",
+        "totalEnergy": 46,
+        "survivorCount": 28,
+        "rank": 1,
+        "winner": true
+      }
+    ],
+    "stats": [
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 462,
+        "available": 486,
+        "maxMs": 33.12579099999857,
+        "p95Ms": 9.008333000001585
+      },
+      {
+        "timeouts": 0,
+        "errors": [],
+        "invalid": 0,
+        "calls": 1024,
+        "matched": 462,
+        "available": 480,
+        "maxMs": 82.94425000000047,
+        "p95Ms": 3.5272919999988517
+      }
+    ]
+  }
+]

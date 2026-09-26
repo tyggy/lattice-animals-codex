@@ -50,3 +50,9 @@ They deployed one Railway replica with an always-restart policy, then separated 
 ## What to take forward
 
 Prioritize formation completion and assignment flexibility, then test population arithmetic at assignment time. Use the actual published opponent as an additional benchmark; our Baconian stand-in was too limited to establish an edge over the real bot. Retain controlled ablations, frozen source hashes, per-turn traces, and a separately recorded real-time deadline check. The two teams independently encountered timing-induced variation and the difference between a working tactical example and a stronger full-game policy.
+
+## Fresh fast-gym comparison
+
+After the initial eight-game screen, we ran ten fresh seeds (7601–7610), both seats, full16-round/64-turn games and500ms deadlines, two games concurrently. **A14:8 wins,12 losses;43.7 mean energy versus45.9;27.7 survivors versus29.3.** Four paired seeds favored A14 and six favored Baconian. There were no host errors, invalid commands or timeouts; maximum decision103.41ms.
+
+This is an accelerated two-player comparison without the neutral hive golem. It uses pinned published main11198e3, not a verified live branch, and time-bounded searches may vary under load. It supports a modest Baconian advantage in this sample, not a universal ranking or a diagnosis of which feature causes it. [Summary](../results/baconian-fast-7601.json), [all20 scorecards](../results/baconian-fast-7601-scorecards.json). The README includes the command for rerunning this opponent locally.

@@ -2,7 +2,7 @@
 
 Our entry for the September 25, 2026 CIMC Lattice Animals hackathon. One JavaScript controller coordinates its cells to form the requested shapes, survive greedy matching, and preserve energy.
 
-**Final deployed strategy: A14.** Last captured standings: **59 Arena wins (tied fourth)** and **8 Clash wins (third)** at 19:37 PDT. These are the last saved leaderboard values, not a verified statement of the hackathon's overall awards. [Results and post-mortem](docs/POSTMORTEM.md) · [What Baconian did differently](docs/BACONIAN.md).
+**Final hackathon strategy and current baseline: A14.** Last captured standings: **59 Arena wins (tied fourth)** and **8 Clash wins (third)** at 19:37 PDT. These are the last saved leaderboard values, not a verified statement of the hackathon's overall awards. [Results and post-mortem](docs/POSTMORTEM.md) · [What Baconian did differently](docs/BACONIAN.md).
 
 ## Run locally
 
@@ -21,6 +21,14 @@ To repeat the qualification protocol or test the rejected candidate:
 ```sh
 npm run gym -- --seeds 20 --start 5801 --output runs/a14-vs-a13.jsonl
 npm run gym -- --candidate insurance-a15b --opponent handoff-a14 --seeds 20 --start 6001 --output runs/a15b-vs-a14.jsonl
+```
+
+To compare against the reviewed Baconian source (downloaded separately):
+
+```sh
+git clone https://github.com/ebrinz/baconian-lattice-intimato ../baconian-lattice-intimato
+git -C ../baconian-lattice-intimato checkout 11198e34a68e93c4fa8b1a940d83557e3b354466
+npm run gym -- --opponent-module ../baconian-lattice-intimato/player.js --seeds 10 --start 7601 --output runs/baconian.jsonl
 ```
 
 Existing outputs are never overwritten. Frozen dependency hashes are preserved in each release manifest. The original qualification scorecards and summaries are in `results/`; replaying the protocol is not a claim that a new run must reproduce each original score.
